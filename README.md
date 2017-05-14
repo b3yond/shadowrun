@@ -3,11 +3,11 @@ My shadowrun files. My own runs, my characters... you feel it.
 
 # to do
 1. finish krebszelle.md
-  * finish storyline
-  * add enemies
+  1. finish storyline
+  2. add enemies
 2. add characters
-  * wanda
-  * kain
+  1. wanda
+  2. kain
 3. add NPCs
 
 # License for this repository
