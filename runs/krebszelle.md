@@ -342,6 +342,8 @@ Der kleine Showdown:
 
 ## Sags ihnen ins Gesicht
 
+Die  Zentrale der Nationalen Aktion in Bergedorf ist ein unscheinbares  Clubhaus - wer es nicht besser wüsste, würde hier vielleicht den Verein  der kleingärtnernden Kaninchenzüchter vermuten. Die Überwachungskamera  über dem Eingang deutet aber durchaus darauf hin, dass es sich hier  nicht um eine komplett harmlose Vereinigung handelt. Hin und wieder  blicken Männer mit Glatzen durch die beinahe geschlossenen Vorhänge.
+
 ## Aufhänger
 
 ## Hinter den Kulissen
