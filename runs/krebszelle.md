@@ -121,9 +121,7 @@ Der Typ namens Poppa verlässt den Plattenbau, in dem er wohnt, und  schlendert 
 *14:45 mit Hat3r auf dem Platz treffen, Pläne machen, Nazis greifen SCs an*  
 Nach einiger Zeit bemerkt Poppa einen Zwerg, der alleine an der  Seitenlinie steht und zuschaut. Er sagt den Kindern Tschüss und stellt sich zu ihm. Die beiden fangen an zu tuscheln. Plötzlich hält ein Lieferwagen am Rande des Platzes, einige Nazis springen heraus.
 
-´´´
-Hier zu Szene 4 wechseln. Wenn die Runner aber erst ab 15:00 zu Poppa stoßen, folgendes:
-´´´
+> Hier zu Szene 4 wechseln. Wenn die Runner aber erst ab 15:00 zu Poppa stoßen, folgendes:
 
 *15:00 Mittagessen bei einer Dönerbude*  
 Gegen 15:00 Uhr gönnt er sich einen SoyDöner, ein ekelhaftes Zeug, dass  hier in den Slums aber zum Grundnahrungsmittel geworden ist. Poppa  schlingt es runter, als wäre nichts und scheint sich nicht am Geschmack  zu stören. Er ist es wohl schon gewohnt. Nach einer Weile ist er fertig  und steht auf.
@@ -204,9 +202,8 @@ Poppa grinst euch nach dem Kampf erschöpft an: "Puh, das war ein Kampf.  Schön
 Er gestikuliert mit wütendem Blick weiter, und schlägt wiederholt die  Faust in die Handfläche. "Außerdem beweist ihr damit, dass ihr definitiv  nicht von Staat oder Konzernen seid, die würden nich einen der ihren  umlegen. Das sollte das einfachste Ding der Welt werden, auf einem  Schulfest gibts nicht mal Securities. Also seid ihr dabei?"
 
 
-´´´
-Jetzt zu Szene 5 wechseln. Die Runner sollten jetzt den Schuldirektor umlegen und dann wiederkommen. 
-´´´
+> Jetzt zu Szene 5 wechseln. Die Runner sollten jetzt den Schuldirektor umlegen und dann wiederkommen. 
+
 
 *Bei  Rückkehr liegt Poppa mit 5K 0G Zustand auf dem Platz, mit blutigem Hemd  und Brustwunde (bei erster Hilfe Hemd aufknöpfen), Hat3r nicht da*  
 Als ihr wieder am Fußballplatz der Kinder angekommen seid, wo Poppa auf  euch warten wollte, seht ihr eine Traube von Kindern. Sie stehen  offensichtlich um einen Mann herum, der am Boden liegt...
@@ -291,15 +288,21 @@ Ayse springt mit wütendem Blick auf. "Dann muss er sterben. Wir können keine V
 
 Die anderen beiden bleiben still, offensichtlich überfordert mit der Situation.
 
-'''
-Wenn SCs nicht eingreifen, befiehlt Ayse dem Zwerg, Hat3r hinzurichten
-wenn SCs Poppa denunzieren, wehrt er sich und versucht Ayse zu töten, nimmt Sprengstoff von ihrer Leiche, um so viele wie möglich zu töten
-'''
+
+#### Wenn die Runner Poppa nicht denunzieren
+
+> Wenn SCs nicht eingreifen, befiehlt Ayse dem Zwerg, Hat3r hinzurichten
 
 *Wenn Ayse Hat3r Hinrichtung befiehlt:*  
 Ayse zieht ihre eigene Pistole, während sie Poppa wie außer sich anschreit, dass er gefälligst abdrücken soll.
 
 Der  lässt sich das nicht zweimal sagen - ein Knall, der von dem anlaufenden  Punkkonzert problemlos übertönt wird, und das Gehirn des Zwergs  verteilt sich über die Bretterwand, ohne dass er nur noch ein Wort mehr  sagen kann. aus der rauchenden Ruine seines Schädels ragen noch ein paar  Drähte, sein Körper kippt langsam zu Boden.
+
+> Ab hier können die Runner beliebig weitermachen. Wenn sie mitgefilmt haben, gibt es sogar einen Beweis dafür, wie Poppa Befehle von Ayse empfängt.
+
+#### Wenn die Runner Poppa denunzieren
+
+> wenn SCs Poppa denunzieren, wehrt er sich und versucht Ayse zu töten, nimmt Sprengstoff von ihrer Leiche, um so viele wie möglich zu töten
 
 *Wenn Poppa denunziert wird und Ayse den Kampf nicht überlebt:*  
 Bevor jemand ihn stoppen kann, zerrt Poppa einen Sprengsatz aus Ayses  Mantel. Wofür sie ihn ursprünglich verwenden wollte, das hat sie mit ins  Grab genommen - doch es sieht so aus, als hätte er auch in den Händen anderer seine Verwendung.
@@ -308,11 +311,14 @@ Poppa drückt in schneller Reihenfolge drei Knöpfe.
 
 "Heil  Thule!" ist das letzte, was ihr hört, bevor der Sprengsatz detoniert.  Eine unglaubliche Druckwelle zerreißt alles in der näheren Umgebung. Als  die Ventile platzen und die Schotte weggerissen werden, die die Nordsee  draußen gehalten haben, ergießt sich eine verseuchte Brühe durch die  engen Gänge des Meta-Untergrunds. Noch Tage später werden die Leichen  von Metamenschen, die in den Gängen ein Zuhause gefunden hatten, von den  freiwilligen Hilfskräften an die Erdoberfläche gezerrt. Unter ihnen ist  auch ein junger blonder Deutscher, auf dessen angekohlten Oberkörper  man noch die Überreste eines Tattoos von der Thule-Gesellschaft erkennen  kann.
 
+> Das wäre das eine Ende. 
+
 *Wenn ihr Poppa besiegt*  
 Die Kugeln durchsieben den Spitzel, und röchelnd geht er zu Boden.  "Heil Thule!" kann er noch sagen, bevor er endgültig zusammensackt.
 
 Ayse  sieht euch dankbar an. "Vielen Dank, ihr habt uns geholfen, diesen  dreckigen Faschisten zu entlarven. Ich weiß gar nicht, wofür ich ihn am  meisten hassen soll - dass er uns gespalten hat, dass er uns bespitzelt  hat, oder weil er ein verfraggter Nazi war... wirklich beunruhigend ist  aber, was er wohl über uns und andere herausgefunden hat. Wenn wir nur  an seine Auftraggeber kämen, könnten wir die Daten vielleicht in den  Griff kriegen oder wieder löschen... ihr seid doch Runner, oder? Wir  könnten eure Hilfe gebrauchen."
 
+> Ab hier kann man praktisch mit Szene 7 fortfahren.
 
 ## Hinter den Kulissen
 
