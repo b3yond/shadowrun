@@ -95,66 +95,69 @@ Aktionsfertigkeiten:| 28/2 + 2 magische auf 5
 Gr Biotech|1
 Gr Schauspielerei |1
 Verbannen |4
-Spruchzauberei 5 + 1 spez Manipulation
-Binden 6 + 1 spez Feuergeister
-Ritualzauberei 3
-Herbeirufen 2
-Astralkampf 1
-Alchemie 2
-Antimagie 3
-Arkana 2
-Askennen 3
-Führung 2
-Wahrnehmung 2
-Schleichen 1
+Spruchzauberei| 5 + 1 spez Manipulation
+Binden| 6 + 1 spez Feuergeister
+Ritualzauberei| 3
+Herbeirufen| 2
+Astralkampf| 1
+Alchemie |2
+Antimagie |3
+Arkana |2
+Askennen |3
+Führung |2
+Wahrnehmung| 2
+Schleichen |1
 
 
-Wissensfertigkeiten: 22
-Deutsch M
-Englisch 4
-Russisch 1
-akademisch
-Politische Theorie 1 + 1 spez. Feminismus
-Magietheorie 3 + 1 spez. Geister
-Geschichte der Moderne 1
-Geschichte der Wicca 2
-Beruf
-Arbeitsabläufe der AG Chemie 3
-Hobby
-spirituelle Tänze 2
-Gothic Jazz 2
-Astral Rock 1
+Wissensfertigkeiten: |22
+----------|------
+Deutsch |M
+Englisch |4
+Russisch |1
+akademisch|
+Politische Theorie |1 + 1 spez. Feminismus
+Magietheorie |3 + 1 spez. Geister
+Geschichte der Moderne |1
+Geschichte der Wicca |2
+Beruf|
+Arbeitsabläufe der AG Chemie |3
+Hobby|
+spirituelle Tänze |2
+Gothic Jazz |2
+Astral Rock |1
 
 
-Ausrüstung: 50.000
-3000 € - Halbes Jahr Squatter
-100€ - Überlebensmesser
-1700€ - Chamäleonanzug
-1000€ - Renraku Sensei Kommlink (Stufe 3)
-7500€ - SIN stufe 3 - Erika Lust, 26, Mechatronikerin
-600€ - gefälschte Magielizenz Stufe 3
-475€ - Brille(2) mit Bildverbindung und Sichtvergrößerung
-25€ - 50 Kabelbinder
-3000€ - 6x Materialien für Refugium
-16000€ - 800 Dram Reagenzien
-16000€ - Zauberfokus Stufe 4
-600€ - Fokuslizenz Stufe 3
-+ Waffe?
+Ausrüstung| 50.000
+--------|-------
+3000 € |Halbes Jahr Squatter
+100€ | Überlebensmesser
+1700€ | Chamäleonanzug
+1000€ | Renraku Sensei Kommlink (Stufe 3)
+7500€ | SIN stufe 3 - Erika Lust, 26, Mechatronikerin
+600€ | gefälschte Magielizenz Stufe 3
+475€ | Brille(2) mit Bildverbindung und Sichtvergrößerung
+25€ | 50 Kabelbinder
+3000€ | 6x Materialien für Refugium
+16000€ | 800 Dram Reagenzien
+16000€ | Zauberfokus Stufe 4
+600€ | Fokuslizenz Stufe 3
 
 
-Vor- und Nachteile:
-Nachteile:
-Konzern-SIN 25
+## Vor- und Nachteile:
+
+Nachteile:  
+Konzern-SIN 25  
 Vorurteil: Mann mit Muskeln, voreingenommen (5)
-Vorteile:
-Astrales Chamäleon 10
+
+Vorteile:  
+Astrales Chamäleon 10  
 Freundliche Geister (Feuer) 7
 
 
-Zwischenstand Karma: 0
+## Zwischenstand Karma: 0
 
-Connections:
+## Connections:
 Angestellter bei der Chemie AG 2 - 3
-Anarchistische Hausbesetzer*innen 1 - 1
+Anarchistische Hausbesetzer\*innen 1 - 1
 Taliskrämer aus der Uni 3 - 2
 
