@@ -1,3 +1,5 @@
+# Die Krebszelle - was Terror wirklich bedeutet
+
 # Hintergrund
 
 In "Krebszelle" bekommen die Runner den Auftrag, einen Jungen zu rächen, der Opfer eines linksterroristischen Anschlags geworden ist. Neo-Anarchisten haben eine Dinnerparty des DeMeKo-Programmchefs Thomas H. Feedler überfallen und seinen Sohn getötet. Die Anführerin erschoss den Jungen und hielt anschließend eine Rede: der Anschlag erfolgte wegen anti-anarchistischer Berichterstattung, "Ragnarock für Opfer der Anarchie". Bei dem Anschlag konnte einer der Angreifer identifiziert werden: Paul "Poppa" Kaznic, der Mitglied der Krebszelle ist. Eigentlich ist er jedoch ein Nazi-Spitzel, der für die Nationale Aktion Linke ausspioniert und ein Adept der Thule-Gesellschaft.
@@ -119,6 +121,10 @@ Der Typ namens Poppa verlässt den Plattenbau, in dem er wohnt, und  schlendert 
 *14:45 mit Hat3r auf dem Platz treffen, Pläne machen, Nazis greifen SCs an*  
 Nach einiger Zeit bemerkt Poppa einen Zwerg, der alleine an der  Seitenlinie steht und zuschaut. Er sagt den Kindern Tschüss und stellt sich zu ihm. Die beiden fangen an zu tuscheln. Plötzlich hält ein Lieferwagen am Rande des Platzes, einige Nazis springen heraus.
 
+'''
+Hier zu Szene 4 wechseln. Wenn die Runner aber erst ab 15:00 zu Poppa stoßen, folgendes:
+'''
+
 *15:00 Mittagessen bei einer Dönerbude*  
 Gegen 15:00 Uhr gönnt er sich einen SoyDöner, ein ekelhaftes Zeug, dass  hier in den Slums aber zum Grundnahrungsmittel geworden ist. Poppa  schlingt es runter, als wäre nichts und scheint sich nicht am Geschmack  zu stören. Er ist es wohl schon gewohnt. Nach einer Weile ist er fertig  und steht auf.
 
@@ -197,7 +203,10 @@ Poppa grinst euch nach dem Kampf erschöpft an: "Puh, das war ein Kampf.  Schön
 "Aber  ich habe einen prima Auftrag, den ihr erledigen könnt, wenn ihr euch  beweisen wollt. Da gibt es diese Schule in Bergedorf, sau autoritär. Der  Schulleiter da ist ein mieser Wichser, der die Kids zum lernen zwingt,  manchmal mit Gewalt. Eine gute Gelegenheit, um ein Exempel zu  statuieren. Morgen ist da Schulfest - wenn ihr den Schulleiter umlegt,  während er spricht, und alle Noten vom Host der Schule löscht, zeigt ihr  den Kleinen, dass man sich gegen das Scheißsystem wehren kann."
 Er gestikuliert mit wütendem Blick weiter, und schlägt wiederholt die  Faust in die Handfläche. "Außerdem beweist ihr damit, dass ihr definitiv  nicht von Staat oder Konzernen seid, die würden nich einen der ihren  umlegen. Das sollte das einfachste Ding der Welt werden, auf einem  Schulfest gibts nicht mal Securities. Also seid ihr dabei?"
 
-=> Szene 5
+
+'''
+Jetzt zu Szene 5 wechseln. Die Runner sollten jetzt den Schuldirektor umlegen und dann wiederkommen. 
+'''
 
 *Bei  Rückkehr liegt Poppa mit 5K 0G Zustand auf dem Platz, mit blutigem Hemd  und Brustwunde (bei erster Hilfe Hemd aufknöpfen), Hat3r nicht da*  
 Als ihr wieder am Fußballplatz der Kinder angekommen seid, wo Poppa auf  euch warten wollte, seht ihr eine Traube von Kindern. Sie stehen  offensichtlich um einen Mann herum, der am Boden liegt...
@@ -220,11 +229,110 @@ Wenn die Runner den Auftrag nicht annehmen, verschwinden Poppa und Hat3r, und ve
 
 
 
-
-
-# Szene 8
+# Szene 5: Der Schuldirektor muss sterben
 
 ## Auf einen Blick
+
+Das ist nur ein Nebenschauplatz. Niemand erwartet, dass jemand in einer Schule jemanden erschießt, und die Runner haben endlos Zeit, um zu entkommen. Auf dem Host der Schule finden sich aber einige interessante Hinweise, die darauf hindeuten könnten, dass Poppa nicht so links sein ist, wie er tut.
+
+## Sags ihnen ins Gesicht
+
+Die öffentlichen, staatlichen bzw. städtischen Schulen Bergedorfs  zeichnen sich gleichfalls durch marode Klassenräume, große, überfüllte  Klassen, veraltete Unterrichtsmaterialien und ein - häufig - ebenso wie  die Schüler demotiviertes Lehrpersonal aus. - Entsprechend hoch ist der  Anteil der notorischen Schulschwänzer sowie der Schüler, die eine oder  mehrere Klassen wiederholen müssen oder die Schule als Schulabbrecher   ohne Abschluss verlassen. 
+
+Genauso  ist die Stimmung an diesem Schulfest, eigentlich will niemand so  wirklich hier sein. nur auf der kleinen Bühne im Hof steht ein Mann im  Anzug und hält enthusiastisch eine Rede für die versammelte  Schülerschaft, etwa 700 Kinder und Jugendliche. Das Schulgebäude, das um  den Hof herum aufragt, scheint leer zu sein, da die gesamte  Schülerschaft und das Lehrerkollegium im Innenhof versammelt sind.
+
+## Hinter den Kulissen
+
+keine bewaffnete Security, HanSec nach Alarm in 15 Minuten da.
+
+Auf dem Host liegen neben der Noten-Datenbank, die die Runner löschen sollen, auch Informationen über ein Chancengleichheitsprogramm für Metamenschen, dass der Schuldirektor durchführen will. Das deutet natürlich darauf hin, dass er für eine linke Terrorgruppe ein ungewöhnliches Ziel wäre.
+
+## Keine Panik
+
+Hier kann fast nichts passieren. Die Runner könnten sich höchstens dagegen entscheiden, den Auftrag auszuführen. Dann müssen sie den Treffpunkt eben anders aus Poppa herausbekommen.
+
+## Schauplätze
+
+* HostStufe 2 - 3 2 4 5 (ASDF); IC: Blaster, Aufspüren, Wirbel
+  * Archive mit Daten über Chancengleichheits-Programm
+  * Notendatenbank
+  * Kontodaten mit 60k€ Bestechungsgeldern(Stufe 3)
+
+
+# Szene 6: Das Plenum der Krebszelle
+
+## Auf einen Blick
+
+Die Runner haben nun das Vertrauen der Krebszelle erworben und werden zu ihrem Plenum eingeladen. Es ist jedoch nichts wie es scheint: Poppa muss Verdacht von sich lenken und beschuldigt den Zwergendecker Hat3r, in Wirklichkeit ein Nazispitzel zu sein. Lassen die Runner die Situation eskalieren?
+
+## Sags ihnen ins Gesicht
+
+Poppa wartet im Underground auf euch, über einem Teller mit veganem Etwas.  In der Ecke bereitet eine weitere abgeranzte Punkband sich auf ihren  Gig vor. Er begrüßt euch und führt euch nach hinten. Das autonome  Zentrum ist definitiv von innen größer als von außen.
+
+Ihr  tretet in ein Hinterzimmer ein, das Licht ist schummrig, wie es an  solchen Orten wohl sein muss. Am Tisch sitzen bereits vier Leute; Hat3r,  der zwergische Decker, noch ein Zwerg, ein Ork, und eine menschliche  Frau, die sofort nervös nach ihrer Waffe greift, als ihr den Raum  betretet. Als sie Poppa erkennt, senkt sie sie allerdings wieder. "Wer  ist das!?" fragt sie misstrauisch.
+
+Poppa  beruhigt sie. "Noch mehr so Antifanten, haben sich bewiesen, wir haben  gemeinsam gegen Faschos gekämpft. Sie haben den Dittrich umgelegt,  diesen Versklaver. HanSec sind sie also auch mit Sicherheit nicht."
+
+Sie runzelt die Stirn, hält euch aber die Hand hin. "Nennt mich Ayse. Willkommen in unserer kleinen namenlosen Zelle."
+
+Der Ork blickt Poppa an. "Und mit dir ist alles in Ordnung? Du siehst ja nicht unbedingt gesund aus."
+
+Da  beginnt Poppa finster zu gucken - und mit einer blitzschnellen Bewegung  zieht er seine Ares Predator V hervor und hält sie Hat3r an den  Schädel. "Halt, niemand bewegt sich - alle die Ruhe bewahren."
+
+Der ganze Raum erstarrt.
+
+"Wir wurden verraten - ich wurde von Faschos angegriffen. Und ich glaube, Hat3r ist derjenige."
+
+Hat3r,  sichtlich nervös, traut sich keine ausladende Bewegung zu machen. "Ähhh... das stimmt nicht. Ich rede doch nicht mit Faschos. Ihr könnt euch gerne meine Chatlogs angucken."
+
+Poppa  lacht auf. "Seht ihr, und das meine ich - er als Decker kann seine Spuren mit links verwischen. Er ist definitiv nicht vertrauenswürdig."
+
+Ayse springt mit wütendem Blick auf. "Dann muss er sterben. Wir können keine Verräter in unseren Reihen dulden!"
+
+Die anderen beiden bleiben still, offensichtlich überfordert mit der Situation.
+
+'''
+Wenn SCs nicht eingreifen, befiehlt Ayse dem Zwerg, Hat3r hinzurichten
+wenn SCs Poppa denunzieren, wehrt er sich und versucht Ayse zu töten, nimmt Sprengstoff von ihrer Leiche, um so viele wie möglich zu töten
+'''
+
+*Wenn Ayse Hat3r Hinrichtung befiehlt:*  
+Ayse zieht ihre eigene Pistole, während sie Poppa wie außer sich anschreit, dass er gefälligst abdrücken soll.
+
+Der  lässt sich das nicht zweimal sagen - ein Knall, der von dem anlaufenden  Punkkonzert problemlos übertönt wird, und das Gehirn des Zwergs  verteilt sich über die Bretterwand, ohne dass er nur noch ein Wort mehr  sagen kann. aus der rauchenden Ruine seines Schädels ragen noch ein paar  Drähte, sein Körper kippt langsam zu Boden.
+
+*Wenn Poppa denunziert wird und Ayse den Kampf nicht überlebt:*  
+Bevor jemand ihn stoppen kann, zerrt Poppa einen Sprengsatz aus Ayses  Mantel. Wofür sie ihn ursprünglich verwenden wollte, das hat sie mit ins  Grab genommen - doch es sieht so aus, als hätte er auch in den Händen anderer seine Verwendung.
+
+Poppa drückt in schneller Reihenfolge drei Knöpfe.
+
+"Heil  Thule!" ist das letzte, was ihr hört, bevor der Sprengsatz detoniert.  Eine unglaubliche Druckwelle zerreißt alles in der näheren Umgebung. Als  die Ventile platzen und die Schotte weggerissen werden, die die Nordsee  draußen gehalten haben, ergießt sich eine verseuchte Brühe durch die  engen Gänge des Meta-Untergrunds. Noch Tage später werden die Leichen  von Metamenschen, die in den Gängen ein Zuhause gefunden hatten, von den  freiwilligen Hilfskräften an die Erdoberfläche gezerrt. Unter ihnen ist  auch ein junger blonder Deutscher, auf dessen angekohlten Oberkörper  man noch die Überreste eines Tattoos von der Thule-Gesellschaft erkennen  kann.
+
+*Wenn ihr Poppa besiegt*  
+Die Kugeln durchsieben den Spitzel, und röchelnd geht er zu Boden.  "Heil Thule!" kann er noch sagen, bevor er endgültig zusammensackt.
+
+Ayse  sieht euch dankbar an. "Vielen Dank, ihr habt uns geholfen, diesen  dreckigen Faschisten zu entlarven. Ich weiß gar nicht, wofür ich ihn am  meisten hassen soll - dass er uns gespalten hat, dass er uns bespitzelt  hat, oder weil er ein verfraggter Nazi war... wirklich beunruhigend ist  aber, was er wohl über uns und andere herausgefunden hat. Wenn wir nur  an seine Auftraggeber kämen, könnten wir die Daten vielleicht in den  Griff kriegen oder wieder löschen... ihr seid doch Runner, oder? Wir  könnten eure Hilfe gebrauchen."
+
+
+## Hinter den Kulissen
+
+Hier findet der große Showdown statt: auf welche Seite schlagen sich die Runner?
+
+Um Ayse bereits zu verhaften/töten, brauchen sie ordentliche Beweise. Eine Aufnahme der Situation sollte allerdings reichen.
+
+Wenn die Runner Poppa erledigt haben und sich entscheiden, Zschäpe auch noch zu erledigen, finden sie dort Beweise, die Zschäpe zu ihrem Auftragsziel machen. Ayse hat somit eine Überlebenschance, nicht von den Runnern gegeekt zu werden und eine Connection zu werden.
+
+## Schergen und bewegliche Ziele
+
+
+
+
+
+# Szene 7: Die Zentrale der Nationalen Aktion
+
+## Auf einen Blick
+
+Der kleine Showdown: 
 
 ## Sags ihnen ins Gesicht
 
