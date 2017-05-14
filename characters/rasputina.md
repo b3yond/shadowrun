@@ -45,7 +45,7 @@ Jutta ist von Rasputin fasziniert, einem "Magier" am Hof des Zaren um 1900 herum
 
 
 
-Prioritäten: | 
+Prioritäten: |. 
 -------------|-----------
 Metatyp|E
 Ressourcen|D
@@ -53,7 +53,7 @@ Attribute|B
 Fertigkeiten|C
 Magie|A
 
-Attribute:|
+Attribute:|.
 ----------|--------
 Konstitution:|1+0
 Geschicklichkeit:|1+1
@@ -70,30 +70,31 @@ Magie:|6
 Magie - Zauberin  
 Bindungsfokus Stufe 4 - Feuer
 * Rituale
---* Homunkulus
---* Fernzauber
---* Hüter
+  * Homunkulus
+  * Fernzauber
+  * Hüter
 * Spruchzauber
---* Verbesserte Unsichtbarkeit (Illusion)
---* Flammenwerfer (Kampf)
---* Betäubungsball (Kampf)
---* Beeinflussen (Manipulation)
---* Levitieren (Manipulation)
---* Panzerung (Manipulation)
---* Wahrheit prüfen (Wahrnehmung)
---* Alchemie
---* Energieschlag (Kampf)
---* Entzünden (Manipulation)
---* Heilen (Heilen)
---* Gebundene Geister
---* Feuergeist Stufe 6 - 3 Dienste - Gifthauch & Grauen
---* Feuergeist Stufe 6 - 3 Dienste - Schutz & Suche
---* Menschengeist Stufe 6 - 4 Dienste - Psychokinese & Verbesserte Unsichtbarkeit
+  * Verbesserte Unsichtbarkeit (Illusion)
+  * Flammenwerfer (Kampf)
+  * Betäubungsball (Kampf)
+  * Beeinflussen (Manipulation)
+  * Levitieren (Manipulation)
+  * Panzerung (Manipulation)
+  * Wahrheit prüfen (Wahrnehmung)
+* Alchemie
+  * Energieschlag (Kampf)
+  * Entzünden (Manipulation)
+  * Heilen (Heilen)
+* Gebundene Geister
+  * Feuergeist Stufe 6 - 3 Dienste - Gifthauch & Grauen
+  * Feuergeist Stufe 6 - 3 Dienste - Schutz & Suche
+  * Menschengeist Stufe 6 - 4 Dienste - Psychokinese & Verbesserte Unsichtbarkeit
 
-Aktionsfertigkeiten: 28/2 + 2 magische auf 5
-Gr Biotech 1
-Gr Schauspielerei 1
-Verbannen 4
+Aktionsfertigkeiten:| 28/2 + 2 magische auf 5
+----------|-----------
+Gr Biotech|1
+Gr Schauspielerei |1
+Verbannen |4
 Spruchzauberei 5 + 1 spez Manipulation
 Binden 6 + 1 spez Feuergeister
 Ritualzauberei 3
