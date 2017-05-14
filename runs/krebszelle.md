@@ -121,7 +121,7 @@ Der Typ namens Poppa verlässt den Plattenbau, in dem er wohnt, und  schlendert 
 *14:45 mit Hat3r auf dem Platz treffen, Pläne machen, Nazis greifen SCs an*  
 Nach einiger Zeit bemerkt Poppa einen Zwerg, der alleine an der  Seitenlinie steht und zuschaut. Er sagt den Kindern Tschüss und stellt sich zu ihm. Die beiden fangen an zu tuscheln. Plötzlich hält ein Lieferwagen am Rande des Platzes, einige Nazis springen heraus.
 
-'''
+'''javascript
 Hier zu Szene 4 wechseln. Wenn die Runner aber erst ab 15:00 zu Poppa stoßen, folgendes:
 '''
 
