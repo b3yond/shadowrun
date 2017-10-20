@@ -34,4 +34,22 @@ Runs:
   * Nomade verrät den Runnern im letzten Atemzug, dass sie für Alamais arbeiten
 * falls Runner sich darüber aufregen, fängt Alamais an, sie zu jagen
 
+## Thoughts
+
+About deals with dragons: https://www.reddit.com/r/Shadowrun/comments/77jqbt/never_ever_cut_a_deal_with_a_dragon/
+
+Lofwyr should be pretty pissed about them working for Alamais, and about
+the whole nuclear explosion thing. Would he want to pay Alamais back for
+this? Would he use the runners?
+
+Alamais on the contrary should be pretty generous that they killed the
+nomad.
+
+Maybe all of this fits in a follow up campaign, where Alamais puts the
+runners together with some nazis, so they want to get out of Alamais'
+service - maybe that's what Lofwyr uses as incentive so the runners
+switch sides.
+
+Okay, let's put this in another campaign, lol. this one is getting out
+of hand anyway :D
 
