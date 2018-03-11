@@ -67,7 +67,7 @@ War mal Besetzt & Konzerthalle, wurde geräumt, damit so ein Startup wieder ne F
 
     Im Serverraum und im Security-Room stehen auch jeweils 1 schlafender Watchman.
 
-
+    Die Vordertür ist mit einem Magschloss Stufe 2 geschützt.
 
     Stufe 3 Geist als magische Abwehr
 
