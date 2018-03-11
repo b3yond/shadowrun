@@ -50,28 +50,70 @@ Fabrikhalle
 
 ## Fabrikhalle
 
-
-
 Fabrik: 1 Fabrikraum mit aufmachbarem Dach, 1 Serverraum, 1 Security-Room mit Kamerascreens & Knopf fürs Dach
 
 War mal Besetzt & Konzerthalle, wurde geräumt, damit so ein Startup wieder ne Fabrik reinbauen kann
     alles voller Grafittis, die die zu faul waren wegzumachen
 
-    Blueprints durch Beinarbeit
+### Security
 
-    2 Wachen watscheln zwischen Fabrikraum, Serverraum, Security-Room hin und her
+2 Wachen watscheln zwischen Fabrikraum, Serverraum, Security-Room hin und her
 
-    Im Fabrikraum stehen auch ein paar bewaffnete Rotorrohnen und Watchman-Drohnen rum, die über die Matrix aktiviert werden können
-        Rotordrohnen: können keine Türen öffnen - einfach zu entkommen
-        Watchman: weniger Feuerkraft
+Im Fabrikraum stehen auch ein paar bewaffnete Rotorrohnen und Watchman-Drohnen rum, die über die Matrix aktiviert werden können
+    Rotordrohnen: können keine Türen öffnen - einfach zu entkommen
+    Watchman: weniger Feuerkraft
 
-    Im Serverraum und im Security-Room stehen auch jeweils 1 schlafender Watchman.
+Im Serverraum und im Security-Room stehen auch jeweils 1 schlafender Watchman.
 
-    Die Vordertür ist mit einem Magschloss Stufe 2 geschützt.
+Die Vordertür ist mit einem Magschloss Stufe 2 geschützt.
 
-    Stufe 3 Geist als magische Abwehr
+Stufe 4 Luftgeist als magische Abwehr
+    Wenn er nicht ausgeschaltet wird, folgt er dem Heli und erstattet Bericht.
 
-    Stufe 3 Host asdf
-        IC
-        Dateien
+Stufe 4 6457 Host für Firmengeheimnisse
+    IC
+        Aufspüren - running
+        Killer
+        Wirbel
+    Dateien
+        Secr3t-Krupp
+        FF1_Blueprints
         
+Stufe 3 4365 Host für die Fabrik + Sicherheitssystem 1 Marke
+    IC
+        Patrouille - running
+        Killer - running
+        Marker
+    Dateien
+        Kamera-Aufzeichnungen
+    Geräte
+        Kameras (stufe 3)
+        Dachluke (stufe 1)
+        4 Watchman-Drohnen  (auf Schleichfahrt) (stufe 5)
+        4 Wasp-Drohnen      (auf Schleichfahrt) (stufe 4)
+        Tor in der Mauer (stufe 1)
+        Magschloss (Stufe 2)
+
+### Sags ihnen ins Gesicht
+
+Als sich der Hamburger Sprawl Stück für Stück ausbreitete, und sich die umliegenden Orte einverleibte, wurde auch Kaltenkirchen Teil von Hamburg.
+
+Ankunft in Kaltenkirchen
+
+Fabrikraum
+
+Sicherheitsraum
+
+Serverraum
+
+## Flucht
+
+Wenn die Runner keinen Alarm ausgelöst haben, werden sie auch nicht verfolgt.
+Wenn doch, sind zwei Helis von HanSec hinter ihnen her, die aber nicht so viel Geschwindigkeit auf den Tacho bringen.
+
+### Sags ihnen ins Gesicht
+
+Helis hinter euch her
+
+Landung + Diskussion mit Schmidt
+
