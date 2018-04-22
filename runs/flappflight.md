@@ -60,41 +60,51 @@ War mal Besetzt & Konzerthalle, wurde geräumt, damit so ein Startup wieder ne F
 2 Wachen watscheln zwischen Fabrikraum, Serverraum, Security-Room hin und her
 
 Im Fabrikraum stehen auch ein paar bewaffnete Rotorrohnen und Watchman-Drohnen rum, die über die Matrix aktiviert werden können
-    Rotordrohnen: können keine Türen öffnen - einfach zu entkommen
+    Rotordrohnen (Flappflight Wasp): können keine Türen öffnen - einfach zu entkommen
     Watchman: weniger Feuerkraft
 
 Im Serverraum und im Security-Room stehen auch jeweils 1 schlafender Watchman.
+
+Die Wasp-Drohnen sind auf Standby, und müssen über die Matrix aufgeweckt werden.
+Die Watchman-Drohnen reagieren auf Schussgeräusche, alarmieren die Wasp-Drohnen aber erst, wenn sie tatsächlich Runner sehen.
+Die Wachleute haben jeweils 2 Marken auf ihnen, um sie zu steuern.
+
+Die Vordertür ist mit einem Magschloss Stufe 2 geschützt.
 
 Stufe 4 Luftgeist als magische Abwehr
     Wenn er nicht ausgeschaltet wird, folgt er dem Heli und erstattet Bericht.
 
 Stufe 4 6457 Host für Firmengeheimnisse
     IC
-        Aufspüren
+        Aufspüren 
         Killer
         Wirbel
     Dateien
-        Secr3t-Krupp
-        FF1_Blueprints
-        
-Stufe 3 4365 Host für die Fabrik + Sicherheitssystem
+        Secr3t-Krupp (Stufe 3)
+        FF1_Blueprints (Stufe 2)
+    Geräte
+        Storage Server (Stufe 3)
+ 
+Stufe 3 4365 Host für die Fabrik + Sicherheitssystem 1 Marke
     IC
         Patrouille
-        Killer
+        Killer 
         Marker
     Dateien
         Kamera-Aufzeichnungen
     Geräte
-        Kameras
-        Dachluke
-        4 Watchman-Drohnen  (auf Schleichfahrt)
-        4 Wasp-Drohnen      (auf Schleichfahrt)
+        Kameras (stufe 3)
+        Dachluke (stufe 1)
+        4 Watchman-Drohnen  (auf Schleichfahrt) (stufe 5)
+        4 Wasp-Drohnen      (auf Schleichfahrt) (stufe 4)
+        Tor in der Mauer (stufe 1)
+        Magschloss (Stufe 2)
+        Bildschirm der Überwachungskameras (Stufe 2)
 
 ### Sags ihnen ins Gesicht
 
-Als sich der Hamburger Strawl Stück für Stück zu <
-
-Ankunft in Kaltenkirchen
+Als sich der Hamburger Sprawl Stück für Stück ausbreitete, und sich die umliegenden Orte einverleibte, wurde auch Kaltenkirchen Teil von Hamburg.
+(Ankunft in Kaltenkirchen)
 
 Fabrikraum
 
