@@ -6,6 +6,9 @@ seiner astralen Signatur aufgespürt, und ihn von einem kleinen Runnerteam
 festnehmen lassen. Er sitzt nun erstmal in Uentrop, in der Nähe des AKWs, bei
 einem Security-Standort von Hochtief in Gewahrsam.
 
+Hochtief ist eine Baufirma, und will in der Nähe von Hamm neue überdimensionale Fabrikgelände für S-K
+Ihre Security-Abteilung ist zur Zeit viel mit einem Dorf beschäftigt, das nicht geräumt werden will
+
 Herr Schmidt/Alamais will sowohl die Baupläne des AKWs, als auch den Nomaden
 befreien.  Die Runner wissen nicht, dass die Befreiung auch ein wichtiger Teil
 des Plans ist.
