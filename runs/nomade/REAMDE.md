@@ -50,8 +50,6 @@ Der Nomade will das Dorf Welver bei Hamm schützen.
 
 Wenn Alamais den Runnern Aufträge gibt, legt er Spuren, dass der Auftraggeber NeoNet ist.
 
-# Verlauf
-
 Runs:
 * Alamais: Baupläne bei S-K klauen, Nomade befreien
   * Nomade gründet Bürgerinitiative, weil SK ein Dorf plattmachen will
