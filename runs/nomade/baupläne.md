@@ -18,12 +18,14 @@ des Plans ist.
 
 Nomade - Radu Lumanesc
 * Wandermagier
-* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde verbunden
+* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde
+  verbunden
 * magisches Refugium hinten im Transporter
 * Liebt Freiheit und Unabhängigkeit
 * Will das ländliche beschützen, politisch aktiv
 * rumänische Herkunft
-* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich auch in aufgeweckter Persönlichkeit aus
+* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich
+  auch in aufgeweckter Persönlichkeit aus
 * Er kommt nicht mit SIMSinn klar und ist da desorientiert
 * Voreingenommen gegen Stadtmenschen
 * SIN-los, bis S-K ihm eine kriminelle SIN verpasst
@@ -37,9 +39,9 @@ Herr Schmidt
 * Steht auf die Matrix und verbringt gerne seine Zeit in der VR
 * Hat durch VR-Sucht (und Alamais' Manipulation) ein paar Löcher im Verstand
 * Etwas fanatisch unter einer aufgeklärten Oberfläche
-* Tut so, als würde er rational auf ein Ziel hinarbeiten, aber eigentlich folgt er nur 
-  Befehlen, die ihm völlig unverständlich sind, und setzt sie dann in seinem Kopf zu 
-  einer konsistenten Geschichte zusammen.
+* Tut so, als würde er rational auf ein Ziel hinarbeiten, aber eigentlich folgt
+  er nur Befehlen, die ihm völlig unverständlich sind, und setzt sie dann in
+  seinem Kopf zu einer konsistenten Geschichte zusammen.
 * Elf
 
 ## Ablauf
@@ -65,25 +67,26 @@ der VR, in einem NeoNet-Host.
 
 Eine Pommesbude, wie sie im Pott an jeder Ecke steht.
 * Neon-Anzeige: Mannis Frittenbude
-* Weißer Klappständer, schwarze Schrift: Echte Kartoffeln in jeder siebten Portion!
+* Weißer Klappständer, schwarze Schrift: Echte Kartoffeln in jeder siebten
+  Portion!
   * Zielgruppe kann sich anscheinend keine AR-Brille leisten
-* Verkäuferin: Mensch Ende 40, will wie 30 aussehen. Bei der Hitze der Friteuse hat die
-  Schminke aber keine Chance.
+* Verkäuferin: Mensch Ende 40, will wie 30 aussehen. Bei der Hitze der Friteuse
+  hat die Schminke aber keine Chance.
 * 3 runde weiße Stehtische.
-  * Ein missmutiger Ork in Latzhose, der wohl keine Portion mit echten Kartoffeln 
-    erwischt hat
-  * Ein Elf im Anzug, der sich ein Glas Coke bestellt hat, eine riesige AR-Brille
-    trägt, aber offensichtlich nicht hierher gehört.
+  * Ein missmutiger Ork in Latzhose, der wohl keine Portion mit echten
+    Kartoffeln erwischt hat
+  * Ein Elf im Anzug, der sich ein Glas Coke bestellt hat, eine riesige
+    AR-Brille trägt, aber offensichtlich nicht hierher gehört.
 
 Der Typ im Anzug strahlt eine SIN aus, die auf einen "Nikolas Schmidt" läuft.
 Klarer Hinweis. Ihr sprecht ihn an.
 
 * Baupläne von Saeder-Krupp.
 * Hochtief baut für die alle möglichen Sachen.
-* Heute sind sie noch in so einem Security-Außenposten in Uentrop, bevor sie 
+* Heute sind sie noch in so einem Security-Außenposten in Uentrop, bevor sie
   morgen in die Arkologie gebracht werden.
-* Da werden nicht soo viele Hochtief-Sicherheitsleute sein, für Ablenkung
-  ist gesorgt - abends ist ne Demonstration gegen ein Bauprojekt.
+* Da werden nicht soo viele Hochtief-Sicherheitsleute sein, für Ablenkung ist
+  gesorgt - abends ist ne Demonstration gegen ein Bauprojekt.
 * Die Demonstration geht von 18:00-21:00. Wenn sie eskaliert, entweder länger
   oder kürzer.
 

@@ -2,12 +2,12 @@
 
 ## Background
 
-Die Gegend um Hamm-Uentrop soll platt gemacht werden, weil Sader-Krupps Tochter
-Hochtief ein Industriegebiet bauen will.  Im Umland regt sich jedoch
+Die Gegend um Hamm-Uentrop soll platt gemacht werden, weil Saeder-Krupps
+Tochter Hochtief ein Industriegebiet bauen will. Im Umland regt sich jedoch
 Widerstand, da einige Dörfer ihr Zuhause gerne behalten würden.
 
 Nachdem die Runner den Nomaden aus einem Stützpunkt von Hochtief Security
-befreit haben, ist der Widerstand gestärkt.  Saeder-Krupp passt das gar nicht,
+befreit haben, ist der Widerstand gestärkt. Saeder-Krupp passt das gar nicht,
 sie wollen die Bewegung klein machen, um die Kosten des Bauprojekts zu senken.
 
 Deswegen engagiert Frau Schmidt von Saeder-Krupp die Runner, um die Bewegung zu
@@ -18,12 +18,14 @@ werden.
 
 Nomade - Radu Lumanesc
 * Wandermagier
-* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde verbunden
+* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde
+  verbunden
 * magisches Refugium hinten im Transporter
 * Liebt Freiheit und Unabhängigkeit
 * Will das ländliche beschützen, politisch aktiv
 * rumänische Herkunft
-* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich auch in aufgeweckter Persönlichkeit aus
+* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich
+  auch in aufgeweckter Persönlichkeit aus
 * Er kommt nicht mit SIMSinn klar und ist da desorientiert
 * Voreingenommen gegen Stadtmenschen
 * SIN-los, bis S-K ihm eine kriminelle SIN verpasst
@@ -32,39 +34,51 @@ Nomade - Radu Lumanesc
 * Mensch
 
 Edith Schneider - Bürgermeisterin
-* Mensch, 50 Jahre alt, trägt eine Anzughose mit langweiliger Bluse. Sie ergraut wohl seit einiger Zeit.
+* Mensch, 50 Jahre alt, trägt eine Anzughose mit langweiliger Bluse. Sie
+  ergraut wohl seit einiger Zeit.
 * Hat Prinzipien, Rechtsstaat & Familie sind ihr wichtig.
-* Ist eine reiche Witwe. Ihr Mann war Exec bei Saeder-Krupp, ist aber vor einigen Jahren von Runnern erschossen worden.
+* Ist eine reiche Witwe. Ihr Mann war Exec bei Saeder-Krupp, ist aber vor
+  einigen Jahren von Runnern erschossen worden.
 * Ist unbestechlich; Frau Schmidt hat bereits versucht, sie zu bestechen.
 * Der Ruf ihrer Familie hat für sie oberste Priorität.
 
 Elisa Schneider - Tochter der Bürgermeisterin
 * Mensch, 15 Jahre alt. Lange braune Haare, trägt ein rotes Lederjäckchen.
 * Sängerin bei The Cooks.
-* Hals über Kopf in den Pfarrer verknallt - er hat sie allerdings zurückgewiesen.
+* Hals über Kopf in den Pfarrer verknallt - er hat sie allerdings
+  zurückgewiesen.
   * Das hat sie niemandem anvertraut außer der Wirtin und ihrem Tagebuch.
 
 Thomas Ungeduld - Pfarrer
-* Elf, 42 Jahre alt. Hochgewachsen, jung und charismatisch. Durch ein großes Muttermal auf der Wange wirkt er nicht unnahbar.
+* Elf, 42 Jahre alt. Hochgewachsen, jung und charismatisch. Durch ein großes
+  Muttermal auf der Wange wirkt er nicht unnahbar.
 * Ist der Pfarrer in St. Elisabeth, Gemeinde in Welver.
 * Ihm ist sein eigener Ruf sehr wichtig, und der Support der Gemeinde.
-* Die Sicherheit von Dorf und Natur ist ebenfalls eine seiner Prioritäten, noch knapp vor seinem Pazifismus.
+* Die Sicherheit von Dorf und Natur ist ebenfalls eine seiner Prioritäten, noch
+  knapp vor seinem Pazifismus.
 
 Ingrid Ingrimm - Wirtin
-* Ork, 30 Jahre alt. Kurze schwarze Haare, helle Haut. Sie hat eine Stirnbuchse, die offensichtlich beschädigt ist.
-* Sie war früher Deckerin, doch ein Virus hat ihr DNI zerbrutzelt. Seitdem will sie nie wieder in die Matrix.
-* Nachdem sie aus den Schatten raus ist, und sich in Welver zur Ruhe gesetzt hat, ist ihr die Sicherheit des Dorfes wichtig.
+* Ork, 30 Jahre alt. Kurze schwarze Haare, helle Haut. Sie hat eine
+  Stirnbuchse, die offensichtlich beschädigt ist.
+* Sie war früher Deckerin, doch ein Virus hat ihr DNI zerbrutzelt. Seitdem will
+  sie nie wieder in die Matrix.
+* Nachdem sie aus den Schatten raus ist, und sich in Welver zur Ruhe gesetzt
+  hat, ist ihr die Sicherheit des Dorfes wichtig.
 * Außerdem würde sie nur sehr ungern in den Knast gehen.
-* Sie kennt die Geheimnisse der meisten Jugendlichen im Dorf, inklusive Eichhörnchens Aufenthaltsort und Elisas geheimer Liebe.
+* Sie kennt die Geheimnisse der meisten Jugendlichen im Dorf, inklusive
+  Eichhörnchens Aufenthaltsort und Elisas geheimer Liebe.
 
 The Cooks - die Dorfband
 * Die Cooks bestehen aus:
   * Elisa, der Sängerin
   * Jules, der Gitarristin
   * und Patrick, der Beats macht.
-* Früher war noch Eichhörnchen dabei, bis er untertauchen musste. Er spielte Bass und schrieb alle Texte.
-* Die Texte der Band sind ziemlich Punkig und kritisch, und sie spielen sie oft auf Kundgebungen oder in der Wirtschaft.
-* Allerdings spielen sie auch im Gottesdienst mit, und covern dafür christliche Lieder.
+* Früher war noch Eichhörnchen dabei, bis er untertauchen musste. Er spielte
+  Bass und schrieb alle Texte.
+* Die Texte der Band sind ziemlich Punkig und kritisch, und sie spielen sie oft
+  auf Kundgebungen oder in der Wirtschaft.
+* Allerdings spielen sie auch im Gottesdienst mit, und covern dafür christliche
+  Lieder.
 
 ## Ablauf
 
@@ -100,8 +114,8 @@ der Fritten ablenken.
 * Frau Schmidt ist förmlich angezogen, ihre Bluse ist hoch zugeknöpft.
 * Ihr setzt euch zu ihr, Bug, Shinti, und Shlomo kennen sie bereits. Es ist
   dieselbe Frau Schmidt wie beim Flappflight-Run.
-* "Willkommen! Diese Pommes müsst ihr probieren. Sowas gibt es nicht bei
-  euch oben in Hamburg, ich sags euch."
+* "Willkommen! Diese Pommes müsst ihr probieren. Sowas gibt es nicht bei euch
+  oben in Hamburg, ich sags euch."
 
 Nachdem sie noch ein bisschen über Qualität und Zubereitung von Pommes
 schwadroniert hat, fängt sie an, den Auftrag zu beschreiben:
@@ -112,13 +126,13 @@ schwadroniert hat, fängt sie an, den Auftrag zu beschreiben:
   der Gegend zu wehren. Die halten echt zusammen, das macht es schwierig.
 * obwohl ihre Pommes echt nicht so toll sind. Ich hab die in der Kneipe da
   probiert, das ist nicht zu vergleichen mit dem hier.
-* Nachdem Versuche, das mit Gewalt zu regeln, bereits gescheitert sind, will
-  ich einen kreativeren Ansatz: ich will, dass ihr Misstrauen sät, Streit
-  provoziert, und den Zusammenhalt untergrabt.
+* Nachdem Versuche, das mit Gewalt und Bestechung zu regeln, bereits
+  gescheitert sind, will ich einen kreativeren Ansatz: ich will, dass ihr
+  Misstrauen sät, Streit provoziert, und den Zusammenhalt untergrabt.
 * Wenn ihr es schafft, das Dorf so zu spalten, dass eine der Demonstrationen
   ein Misserfolg wird, kann ich von da aus weitermachen. Das würde mir reichen.
 * Dafür kriegt ihr dann 120.000 - 30k pro Person.
-* Ein paar Wochen wird das wohl dauern.  Ihr werdet nicht mehr bezahlt, weil
+* Ein paar Wochen wird das wohl dauern. Ihr werdet nicht mehr bezahlt, weil
   ihr länger braucht. Und ich kann euch nicht ewig den Kopf frei halten;
   irgendwann wollen meine Vorgesetzten dann auch Resultate sehen.
 * Aber achtet darauf, dass ihr nicht so sehr als Outsider dafür verantwortlich

@@ -1,13 +1,14 @@
 
-# Charaktere
-Nomade - Radu Lumanesc
+# Charaktere Nomade - Radu Lumanesc
 * Wandermagier
-* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde verbunden
+* Reist umher, etwas exzentrisch, lebt von kleinen Zaubereien, mit der Erde
+  verbunden
 * magisches Refugium hinten im Transporter
 * Liebt Freiheit und Unabhängigkeit
 * Will das ländliche beschützen, politisch aktiv
 * rumänische Herkunft
-* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich auch in aufgeweckter Persönlichkeit aus
+* Er hat eine erhöhte Konzentrationsfähigkeit und Blitzreflexe - drückt sich
+  auch in aufgeweckter Persönlichkeit aus
 * Er kommt nicht mit SIMSinn klar und ist da desorientiert
 * Voreingenommen gegen Stadtmenschen
 * SIN-los, bis S-K ihm eine kriminelle SIN verpasst
@@ -15,7 +16,8 @@ Nomade - Radu Lumanesc
 * Erfährt dadurch auch mehr über Politik, Kritik an Konzernen
 * Durch Repression wird er radikalisiert
 * Wenn der Nomade radikalisiert ist, neigt er auch zu Rache
-* Als toxischer Schamane verdreht sich seine Liebe zur Natur ins antizivilisatorische; 
+* Als toxischer Schamane verdreht sich seine Liebe zur Natur ins
+  antizivilisatorische; 
   * gegen Gesellschaft, Fortschritt, und Technologie
 * Mensch
 
@@ -23,7 +25,9 @@ Frau Schmidt
 * Arbeitet für Saeder-Krupp und Hochtief
 * Hat Politikwissenschaft studiert
 * Kennt die Runner schon vom Flappflight-Run
-* Ist noch nicht lange dabei und manchmal etwas nachlässig, was Sicherheit angeht
+* Ist noch nicht lange dabei und manchmal etwas nachlässig, was Sicherheit
+  angeht
+* Ist fasziniert von Pommes, und probiert gerne unterschiedliche Buden aus
 * Mensch
 
 Herr Schmidt
@@ -33,9 +37,9 @@ Herr Schmidt
 * Hat durch VR-Sucht (und Alamais' Manipulation) ein paar Löcher im Verstand
 * seine Persona sieht aus wie Duke Nukem
 * Etwas fanatisch unter einer aufgeklärten Oberfläche
-* Tut so, als würde er rational auf ein Ziel hinarbeiten, aber eigentlich folgt er nur 
-  Befehlen, die ihm völlig unverständlich sind, und setzt sie dann in seinem Kopf zu 
-  einer konsistenten Geschichte zusammen.
+* Tut so, als würde er rational auf ein Ziel hinarbeiten, aber eigentlich folgt
+  er nur Befehlen, die ihm völlig unverständlich sind, und setzt sie dann in
+  seinem Kopf zu einer konsistenten Geschichte zusammen.
 * Elf
 
 Mattie der Fixer
@@ -46,8 +50,8 @@ Mattie der Fixer
 # Background
 
 Hochtief, eine Tochterfirma von S-K, will Dorf plattmachen für Bauland.
-Alamais will S-Ks Geschäft kaputtmachen.
-Der Nomade will das Dorf Welver bei Hamm schützen.
+Alamais will S-Ks Geschäft kaputtmachen. Der Nomade will das Dorf Welver bei
+Hamm schützen.
 
 Wenn Alamais den Runnern Aufträge gibt, legt er Spuren, dass der Auftraggeber NeoNet ist.
 
@@ -56,9 +60,11 @@ Runs:
   * Nomade gründet Bürgerinitiative, weil SK ein Dorf plattmachen will
 * Saeder-Krupp/Hochtief: Bürgerinitiative ausspionieren & Spalten
   * Der Nomade landet bei der radikalen Hälfte der Bürgerinitiative
-* Alamais: mit Nomade bei S-K einbrechen, Atomunfall beim AKW Hamm-Uentrop von S-K herbeiführen
+* Alamais: mit Nomade bei S-K einbrechen, Atomunfall beim AKW Hamm-Uentrop von
+  S-K herbeiführen
   * Nomade kriegt die Ursache mit, wird toxisch
-  * Nomade versucht jetzt herauszufinden, wer Runner beauftragt hat; jagt erst Fixer, dann Alamais-Schmidt
+  * Nomade versucht jetzt herauszufinden, wer Runner beauftragt hat; jagt erst
+. Fixer, dann Alamais-Schmidt
 * SK: Nomaden jagen und töten, bevor er SK-Schmidt auf die Pelle rückt
   * Nomade verrät den Runnern im letzten Atemzug, dass sie für Alamais arbeiten
 * falls Runner sich darüber aufregen, fängt Alamais an, sie zu jagen
@@ -66,9 +72,9 @@ Runs:
 ## Prolog
 
 Der Nomade hat versucht, astral zu spionieren, um herauszufinden, was Hochtief
-plant, um das Dorf Welver plattzumachen.  S-K Lohnmagier haben ihn anhand
+plant, um das Dorf Welver plattzumachen. S-K Lohnmagier haben ihn anhand
 seiner astralen Signatur aufgespürt, und ihn von einem kleinen Runnerteam
-festnehmen lassen.  Er sitzt nun erstmal in Uentrop, in der Nähe des AKWs, bei
+festnehmen lassen. Er sitzt nun erstmal in Uentrop, in der Nähe des AKWs, bei
 einem Security-Standort von Hochtief in Gewahrsam.
 
 ## 1. Run: Die Baupläne
@@ -82,7 +88,7 @@ Hochtief-Security-Standort, bevor sie morgen routinemäßig gelöscht werden".
 
 In dem Security-Standort treffen die Runner auf einen Lohnmagier, der sie
 aufspürt, und den Alarm lostritt. Nachdem sie ihn getötet haben, ist die
-magische Sperre auf dem Nomaden weg.  Sie finden den Nomaden in einer Zelle,
+magische Sperre auf dem Nomaden weg. Sie finden den Nomaden in einer Zelle,
 deren Tür über die Matrix gesichert ist.Entweder der Nomade schafft es so, sie
 zu überzeugen, ihn freizulassen, oder er nutzt den Beeinflussen-Zauber.
 
@@ -108,37 +114,37 @@ offen. Der Nomade bleibt auf jeden Fall in dem radikalsten Lager, und als
 ehrliche Haut vertritt er auch offen militante Ansätze.
 
 Wenn eine Demonstration gegen das Bauvorhaben scheitert, erachtet Schmidt die
-Runner als erfolgreich und ruft sie an.  Sie treffen sich wieder in einer
+Runner als erfolgreich und ruft sie an. Sie treffen sich wieder in einer
 Pommesbude, und erhalten die Bezahlung. Als Frau Schmidt die Rechnung bezahlt,
 bedankt sich der Verkäufer bei ihr namentlich mit "Frau Vetter-Marcinak".
 
 ## 3. Run: Das Kraftwerk
 
 Über Mattie meldet sich Herr Schmidt wieder bei den Runnern. Sie treffen sich
-in der Matrix.  Die Runner sollen in das AKW Hamm-Uentrop einbrechen, das S-K
-gehört, und einen Virus hochladen.  Herr Schmidt erzählt ihnen, dass der Virus
+in der Matrix. Die Runner sollen in das AKW Hamm-Uentrop einbrechen, das S-K
+gehört, und einen Virus hochladen. Herr Schmidt erzählt ihnen, dass der Virus
 den Reaktor abschaltet und unbrauchbar macht, und eine politische Botschaft an
-die Kühltürme strahlt.  Weil es magische Schutzvorrichtungen (auch gegen die
+die Kühltürme strahlt. Weil es magische Schutzvorrichtungen (auch gegen die
 Strahlung) gibt, brauchen sie den Nomaden, um sie mit einem Ritual zu
 deaktivieren.
 
-Die Runner müssen also den Nomaden davon überzeugen, mitzumachen.  Wenn das
+Die Runner müssen also den Nomaden davon überzeugen, mitzumachen. Wenn das
 gelingt, fahren sie mit dem Transporter in die Nähe, und die Magier führen
-hinten drin das Ritual durch.  Das Ritual ist ein spezieller Zauber, der die
+hinten drin das Ritual durch. Das Ritual ist ein spezieller Zauber, der die
 Geister der Natur anruft, um die Magie der Zivilisation ins Wanken zu bringen.
-Nur der Nomade kennt ihn, und er schlägt vor, ihn zu benutzen.  Das Ritual
+Nur der Nomade kennt ihn, und er schlägt vor, ihn zu benutzen. Das Ritual
 setzt hermetische Magie jeder Art in dem Bereich für mindestens 6 Stunden außer
 Kraft.
 
 Wenn die magischen Schutzvorkehrungen erledigt sind, können die Runner in das
-AKW eindringen.  Alle Matrixgesteuerten Geräte sind aus Sicherheitsgründen
-direkt miteinander verkabelt.  Wenn die Verbindung allerdings zusammenbricht,
-verbinden sie sich auch über Wifi miteinander.  Der Virus ist ein
+AKW eindringen. Alle Matrixgesteuerten Geräte sind aus Sicherheitsgründen
+direkt miteinander verkabelt. Wenn die Verbindung allerdings zusammenbricht,
+verbinden sie sich auch über Wifi miteinander. Der Virus ist ein
 offensichtlich von NeoNet entwickelter Agent, der nacheinander die richtigen
-Schalter umlegt, um das AKW hochzujagen.  Der Prozess dauert 4 Stunden und löst
+Schalter umlegt, um das AKW hochzujagen. Der Prozess dauert 4 Stunden und löst
 nach 15 Minuten einen Alarm aus, den man innerhalb der Anlage hören kann.
 
-Der Nomade bricht in Panik aus und versucht um jeden Preis zu entkommen.  Dabei
+Der Nomade bricht in Panik aus und versucht um jeden Preis zu entkommen. Dabei
 kümmert er sich nicht um die Runner, und kooperiert vielleicht nicht mal mit
 ihnen.
 
@@ -158,14 +164,16 @@ Nomade
 * verhört Herrn Schmidt und findet raus, dass Alamais dahintersteckt
 
 Alamais
-* Herr Schmidt hat seinen Zweck erfüllt. Er muss sterben, bevor er herumerzählt, was er weiß.
+* Herr Schmidt hat seinen Zweck erfüllt. Er muss sterben, bevor er
+  herumerzählt, was er weiß.
 * Hetzt ein paar Nazis auf Herrn Schmidt
 * Hasskampagne gegen Lofwyr und S-K geht los
 
 Herr Schmidt
 * Stimme in seinem Kopf ist plötzlich weg und hinterlässt nur Löcher
 * Sieht, was er getan hat, und flieht panisch, weiß aber nicht wirklich wohin
-* Den Credstick, den er den Runner wirklich geben wollte, nimmt er für die Flucht mit
+* Den Credstick, den er den Runner wirklich geben wollte, nimmt er für die
+  Flucht mit
 
 Mattie
 * Hat keine Provision bekommen, sauer auf Herr Schmidt
@@ -173,7 +181,8 @@ Mattie
 Frau Schmidt
 * BI ist weg: gut
 * PR-Desaster: schlecht
-* Sie vertraut den Runnern, alle Beweise wurden ja in der Atomexplosion vernichtet
+* Sie vertraut den Runnern, alle Beweise wurden ja in der Atomexplosion
+  vernichtet
 * Der Nomade hat ihren Namen von den Runnern und jagt sie
 * Sie beauftragt die Runner, den Nomaden zu jagen
 
@@ -205,13 +214,14 @@ Fragen stellen sollen".
 ## 4. Run: Der Zusammenbruch
 
 Zwei Tage später kriegen die Runner einen panischen Anruf von Frau Schmidt,
-dass jemand hinter ihr her ist.  Der Nomade hat offensichtlich ihre Wohnung
-verwüstet, ist aber auf den Überwachungskameras drauf.  Sie gibt den Runnern
+dass jemand hinter ihr her ist. Der Nomade hat offensichtlich ihre Wohnung
+verwüstet, ist aber auf den Überwachungskameras drauf. Sie gibt den Runnern
 den Auftrag, ihn zu töten, bevor er sie findet.
 
 
 
-Der Nomade verrät den Runnern im letzten Atemzug, dass sie für Alamais arbeiten
+Der Nomade verrät den Runnern im letzten Atemzug, dass sie für Alamais
+arbeiten.
 
 # Thoughts
 
@@ -232,7 +242,7 @@ switch sides.
 Okay, let's put this in another campaign, lol. this one is getting out
 of hand anyway :D
 
-Warum sollten die Runner den Nomaden auf den Run gegen die Atomzentrale mitnehmen?
-Er soll ja vom Effekt des Runs eh nichts wissen. Die Runner am besten auch nicht.
-Ist Sabotage das eigentliche Ziel des Runs?
+Warum sollten die Runner den Nomaden auf den Run gegen die Atomzentrale
+mitnehmen? Er soll ja vom Effekt des Runs eh nichts wissen. Die Runner am
+besten auch nicht. Ist Sabotage das eigentliche Ziel des Runs?
 
