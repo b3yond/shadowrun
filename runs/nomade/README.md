@@ -31,6 +31,7 @@ Herr Schmidt
 * Ist bei NeoNet als Spinne angestellt
 * Steht auf die Matrix und verbringt gerne seine Zeit in der VR
 * Hat durch VR-Sucht (und Alamais' Manipulation) ein paar Löcher im Verstand
+* seine Persona sieht aus wie Duke Nukem
 * Etwas fanatisch unter einer aufgeklärten Oberfläche
 * Tut so, als würde er rational auf ein Ziel hinarbeiten, aber eigentlich folgt er nur 
   Befehlen, die ihm völlig unverständlich sind, und setzt sie dann in seinem Kopf zu 
