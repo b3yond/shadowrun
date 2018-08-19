@@ -131,16 +131,71 @@ schwadroniert hat, fängt sie an, den Auftrag zu beschreiben:
   Misstrauen sät, Streit provoziert, und den Zusammenhalt untergrabt.
 * Wenn ihr es schafft, das Dorf so zu spalten, dass eine der Demonstrationen
   ein Misserfolg wird, kann ich von da aus weitermachen. Das würde mir reichen.
-* Dafür kriegt ihr dann 120.000 - 30k pro Person.
-* Ein paar Wochen wird das wohl dauern. Ihr werdet nicht mehr bezahlt, weil
+* Dafür kriegt ihr dann 120.000 EC - 30 Riesen pro Person.
+* Ein paar Wochen wird das wohl dauern. Ihr kriegt keinen Cent mehr, nur weil
   ihr länger braucht. Und ich kann euch nicht ewig den Kopf frei halten;
   irgendwann wollen meine Vorgesetzten dann auch Resultate sehen.
 * Aber achtet darauf, dass ihr nicht so sehr als Outsider dafür verantwortlich
   gemacht werdet. Dass wird den Zusammenhalt im Dorf eher stärken als
   schwächen.
+* Seid ihr dabei?
 
-## 
+## Beinarbeit
 
+The Cooks
+* Matrixsuche
+  * 1 Erfolg:  Punkband aus Welver, da spielen 4 Leute mit.
+  * 3 Erfolge: Besetzung: Elisa (Gesang), Jules (Gitarre), Eichhörnchen (Gesang
+    & Bass), und Patrick (Beats).
+  * 4 Erfolge: Bei den letzten paar Auftritten war Eichhörnchen anscheinend
+    nicht mehr dabei.
+* Wenn man bei Eichhörnchen nachfragt: 
+  * 0 Erfolge: Wir wollten immer was politisches machen. Die anderen haben das
+    nicht so krass gesehen, aber mir war das immer sehr wichtig.
+  * 2 Erfolge: Wir haben oft in der Kneipe gespielt, und weil Elisa wollte,
+    auch im Gottesdienst. Lol. Aber da haben wir dann mehr gecovert, und
+    weniger von meinen Liedern gespielt.
+* Aus der Aktivistendatenbank:
+  * Fordern in ihren Liedern teilweise zum mehr oder weniger friedlichen
+    Aufstand auf.
+  * Haben gute Connections zur Kirche und zu Thomas Ungeduld.
+  * Der Bassist wird wegen Brandstiftung gesucht und ist untergetaucht.
+
+Edith Schneider (CSVP)
+* Matrixsuche
+  * 0 Erfolge: Die Bürgermeisterin von Welver heißt Edith Schneider und gehört
+    der CSVP an.
+  * 1 Erfolg:  "Vernunft, Rechtsstaat, Familie - wir sorgen dafür, dass ihre
+    Lieben sicher bleiben!"
+  * 2 Erfolge: Ehemann hat bei Saeder-Krupp gearbeitet und ist vor ein paar
+    Jahren von Runnern ermordet worden.
+* Wenn man jemand aus dem Dorf fragt:
+  * 0 Erfolge: Das ist halt unsere Bürgermeisterin. Sie ist ziemlich beliebt,
+    letzendlich macht sie schon vernünftiges Zeug.
+  * 2 Erfolge: Ihre Tochter spielt bei den Cooks.
+* Aus der Aktivistendatenbank:
+  * Finanziert die Kundgebungen. Ihr Dorf liegt ihr sehr am Herzen.
+  * Sie ist eine reiche Witwe und anscheinend absolut unbestechlich.
+
+Thomas Ungeduld - Pfarrer
+* Wenn man jemand aus dem Dorf fragt:
+  * 0 Erfolge: Ist echt ein netter Pfarrer. Ich glaube zwar nicht an Gott und
+    gehe nicht in die Kirche, aber netter Typ.
+  * 3 Erfolge: Nee, der hat wirklich gar keinen Dreck am Stecken. Entweder
+    weil, oder obwohl er ein Mann Gottes ist.
+* Aus der Aktivistendatenbank:
+  * Einer der Wortführer. Hetzt seine Gemeinde auf und redet auch oft auf
+    Kundgebungen.
+
+## Das Dorf
+
+Um nach Welver zu kommen, muss man durch Hamm-Uentrop durch. Ihr lasst die
+Kühltürme hinter euch, als ihr tiefer in die Provinz kommt. Das Kaff sieht
+ziemlich verschlafen aus, hat wohl ein paar hundert Einwohner. Ihr seht einen
+Kirchturm, und an der Hauptstraße ist eine Kneipe. Sie hat offen.
+
+Neben der Kneipe, die eigentlich immer offen hat, gibt es einige regelmäßige Veranstaltungen in Welver:
+Der Gottesdienst, die wöchentliche Kundgebung, und der Partyabend.
 
 
 
