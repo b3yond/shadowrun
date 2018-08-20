@@ -194,12 +194,47 @@ Kühltürme hinter euch, als ihr tiefer in die Provinz kommt. Das Kaff sieht
 ziemlich verschlafen aus, hat wohl ein paar hundert Einwohner. Ihr seht einen
 Kirchturm, und an der Hauptstraße ist eine Kneipe. Sie hat offen.
 
-Neben der Kneipe, die eigentlich immer offen hat, gibt es einige regelmäßige Veranstaltungen in Welver:
-Der Gottesdienst, die wöchentliche Kundgebung, und der Partyabend.
+Neben der Kneipe, die eigentlich immer offen hat, gibt es einige regelmäßige
+Veranstaltungen in Welver: Der Gottesdienst, die wöchentliche Kundgebung, und
+der Partyabend. Sie folgen einer gewissen Reihenfolge, die auch mal abweichen
+kann:
 
+### Kundgebung 
 
+Mittwoch 14:00. Geht im Dorf los. Sowohl Dorfjugend als auch Gemeinde sind da.
 
+* Musik wird abgespielt
+* Redebeiträge
+* zur Baustelle gehen (ca. 15 Minuten)
+* Bäume pflanzen
+* Redebeiträge
+* Die Band spielt
+* Versammlung löst sich auf
 
+### Kneipenabend
 
+Fängt immer Freitag gegen 20:00 an. Vorher trinken auch noch ältere Leute da,
+aber ab 20:00 sind eig nur noch junge da.
 
+* ältere Leute trinken
+* jüngere kommen dazu
+* ältere gehen langsam
+* Die Band spielt
+* Happy Hour
+* alle sind besoffen
+* i-wann gehen alle nach Hause
 
+### Gottesdienst
+
+Sonntag 10:00 in der Kirche. Da ist nur die Gemeinde und die Cooks anwesend.
+
+* The Cooks spielen
+* Beten
+* The Cooks spielen
+* Abendmahl
+* The Cooks spielen
+* Predigt
+* The Cooks spielen
+* gemeinsames Kaffee trinken
+
+## 
