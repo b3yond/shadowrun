@@ -237,4 +237,40 @@ Sonntag 10:00 in der Kirche. Da ist nur die Gemeinde und die Cooks anwesend.
 * The Cooks spielen
 * gemeinsames Kaffee trinken
 
-## 
+## Wie soll man das Dorf spalten?
+
+Nun, die Runner gewinnen, wenn eine Kundgebung wegen interner Streitigkeiten
+schief läuft. Als Spielleiter kann man das natürlich sehr weit interpretieren,
+und die Spieler wissen das. Wenn sie eine coole Idee haben, dann lässt man
+natürlich durchscheinen, ob man sie für gut genug hält.
+
+Das kann alles mögliche sein. 
+* Vielleicht stecken sie der Bürgermeisterin, dass ihre Tochter in den Pfarrer
+  verliebt ist - und die verbietet ihr, in der Kirche aufzutreten.
+* Vielleicht kommt es in der Kirche und auf den Kundgebungen zunehmend zu
+  Diskussionen über Gewalt oder den Nahostkonflikt, und die Bürgermeisterin
+  kann die Bewegung irgendwann nicht mehr tragen.
+* Es passieren unredliche magische Dinge, und das Dorf schiebt es dem Nomaden
+  in die Schuhe, der darauf hin beleidigt ist und irgendwas sabotiert oder
+  destruktiv stichelt.
+* .... den Runner/innen wird hier mehr einfallen.
+
+In der Bewegung ist die Bürgermeisterin für den finanziellen Support
+verantwortlich, der Pfarrer für die Leute und das Gefühl der gemeinsamen
+Ermächtigung, der Nomade für den magischen Support, und the Cooks für die
+Mobilisierung der Jugend.
+
+Wenn ein oder zwei davon wegbrechen oder gestört werden, könnte die Bewegung
+bereits empfindlich geschwächt sein. Als Spielleiter/in sollte man das so
+interpretieren, dass möglichst viel Spielspaß ankommt.
+
+Wenn die Runner/innen es geschafft haben, erhalten sie einen Anruf von Frau
+Schmidt.
+
+## Win!
+
+Sie treffen sich wieder in einer Pommesbude, und erhalten die Bezahlung. 
+
+Als Frau Schmidt die Rechnung bezahlt, bedankt sich der Verkäufer bei ihr
+namentlich mit "Frau Vetter-Marcinak".
+
