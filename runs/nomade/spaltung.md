@@ -68,6 +68,13 @@ Ingrid Ingrimm - Wirtin
 * Sie kennt die Geheimnisse der meisten Jugendlichen im Dorf, inklusive
   Eichhörnchens Aufenthaltsort und Elisas geheimer Liebe.
 
+Romina Olafsson
+* Eng mit Radu und Eichhörnchen befreundet
+* War früher bei einer Spezialeinheit
+* Kam dann ins Konzerngefängnis wegen Befehlsverweigerung
+* Hat sich nach ihrer Freilassung zur Ruhe gesetzt, aber versteht, dass sie
+  sich verteidigen muss
+
 The Cooks - die Dorfband
 * Die Cooks bestehen aus:
   * Elisa, der Sängerin

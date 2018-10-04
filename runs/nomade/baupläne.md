@@ -44,6 +44,13 @@ Herr Schmidt
   seinem Kopf zu einer konsistenten Geschichte zusammen.
 * Elf
 
+Romina Olafsson
+* Eng mit Radu und Eichhörnchen befreundet
+* War früher bei einer Spezialeinheit
+* Kam dann ins Konzerngefängnis wegen Befehlsverweigerung
+* Hat sich nach ihrer Freilassung zur Ruhe gesetzt, aber versteht, dass sie
+  sich verteidigen muss
+
 ## Ablauf
 
 Die Runner kriegen einen Anruf von Mattie, dem Fixer. Er sagt, dass sie den
