@@ -45,11 +45,19 @@ Herr Schmidt
 * Elf
 
 Romina Olafsson
+* Mensch, ca. 35 Jahre alt
 * Eng mit Radu und Eichhörnchen befreundet
 * War früher bei einer Spezialeinheit
 * Kam dann ins Konzerngefängnis wegen Befehlsverweigerung
 * Hat sich nach ihrer Freilassung zur Ruhe gesetzt, aber versteht, dass sie
   sich verteidigen muss
+
+Eichhörnchen
+* Eng mit Radu und Romina befreundet
+* Ork, 15 Jahre alt
+* Bassist und Texter einer Punkband aus Welver
+* Gerade auf der Flucht, weil er eine Baumaschine von Hochtief angezündet hat
+* Aufenthaltsort unbekannt
 
 ## Ablauf
 
@@ -214,6 +222,10 @@ Neuro-Stun X ist ein Giftgas. Macht 15G Schaden, wirkt nach 1 Kampfrunde. Man
 kann mit Konstitution + Willenskraft widerstehen. Pro Kampfrunde wird eine neue
 Probe fällig, die Kraft des Toxins steigt jedes Mal um +1. Nach einer Minute
 ist das Gas verflüchtigt.
+
+Auf dem Host liegen unter anderem Akten über Aktivist/innen in der Gegend. Sie
+sind als Beziehungsnetz angeordnet. Die einzigen beiden, die in direktem
+Kontakt mit Radu stehen, sind Romina und Eichhörnchen.
 
 Stufe 4 6457 Host für Firmengeheimnisse
     IC
