@@ -150,7 +150,7 @@ schwadroniert hat, fängt sie an, den Auftrag zu beschreiben:
 ## Beinarbeit
 
 The Cooks
-* Matrixsuche
+* Matrixsuche +++
   * 1 Erfolg:  Punkband aus Welver, da spielen 4 Leute mit.
   * 3 Erfolge: Besetzung: Elisa (Gesang), Jules (Gitarre), Eichhörnchen (Gesang
     & Bass), und Patrick (Beats).
@@ -162,14 +162,14 @@ The Cooks
   * 2 Erfolge: Wir haben oft in der Kneipe gespielt, und weil Elisa wollte,
     auch im Gottesdienst. Lol. Aber da haben wir dann mehr gecovert, und
     weniger von meinen Liedern gespielt.
-* Aus der Aktivistendatenbank:
+* Aus der Aktivistendatenbank: +++
   * Fordern in ihren Liedern teilweise zum mehr oder weniger friedlichen
     Aufstand auf.
   * Haben gute Connections zur Kirche und zu Thomas Ungeduld.
   * Der Bassist wird wegen Brandstiftung gesucht und ist untergetaucht.
 
 Edith Schneider (CSVP)
-* Matrixsuche
+* Matrixsuche +++
   * 0 Erfolge: Die Bürgermeisterin von Welver heißt Edith Schneider und gehört
     der CSVP an.
   * 1 Erfolg:  "Vernunft, Rechtsstaat, Familie - wir sorgen dafür, dass ihre
@@ -180,7 +180,7 @@ Edith Schneider (CSVP)
   * 0 Erfolge: Das ist halt unsere Bürgermeisterin. Sie ist ziemlich beliebt,
     letzendlich macht sie schon vernünftiges Zeug.
   * 2 Erfolge: Ihre Tochter spielt bei den Cooks.
-* Aus der Aktivistendatenbank:
+* Aus der Aktivistendatenbank: ++
   * Finanziert die Kundgebungen. Ihr Dorf liegt ihr sehr am Herzen.
   * Sie ist eine reiche Witwe und anscheinend absolut unbestechlich.
 
@@ -190,9 +190,23 @@ Thomas Ungeduld - Pfarrer
     gehe nicht in die Kirche, aber netter Typ.
   * 3 Erfolge: Nee, der hat wirklich gar keinen Dreck am Stecken. Entweder
     weil, oder obwohl er ein Mann Gottes ist.
-* Aus der Aktivistendatenbank:
+* Aus der Aktivistendatenbank: +
   * Einer der Wortführer. Hetzt seine Gemeinde auf und redet auch oft auf
     Kundgebungen.
+
+Frau Vetter-Marcinak
+* Matrixsuche:
+  * 0 Erfolge: Es gibt im Ruhrgebiet 135 Frauen mit diesem Nachnamen
+  * 1 Erfolge: Arbeitet für Saeder-Krupp als "Juristische Beratung".
+  * 3 Erfolge: Hat Politikwissenschaften studiert und dann direkt bei S-K
+    angefangen
+  * 5 Erfolge: Wohnt alleine in einem 3-Zimmer-Apartment in Neu-Essen. Adresse
+* Schatten-Kontakte:
+  * 2 Erfolge: Ja, bei der hatte ich auch schon einen Run. Ziemlicher
+    Frischling, die ist harmlos. Ein paar verrückte Ideen hat sie.
+  * 4 Erfolge: Passt echt auf, dass sie nichts über euch erfährt. die ist
+    löchrig wie ein Sieb, jeder könnte aus der Infos rauskriegen. Sehr
+    unvorsichtig.
 
 ## Das Dorf
 
@@ -264,7 +278,7 @@ Das kann alles mögliche sein.
 
 In der Bewegung ist die Bürgermeisterin für den finanziellen Support
 verantwortlich, der Pfarrer für die Leute und das Gefühl der gemeinsamen
-Ermächtigung, der Nomade für den magischen Support, und the Cooks für die
+Ermächtigung, der Nomade für den Pepp und die Ideen, und the Cooks für die
 Mobilisierung der Jugend.
 
 Wenn ein oder zwei davon wegbrechen oder gestört werden, könnte die Bewegung
