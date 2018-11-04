@@ -143,8 +143,7 @@ schwadroniert hat, fängt sie an, den Auftrag zu beschreiben:
   ihr länger braucht. Und ich kann euch nicht ewig den Kopf frei halten;
   irgendwann wollen meine Vorgesetzten dann auch Resultate sehen.
 * Aber achtet darauf, dass ihr nicht so sehr als Outsider dafür verantwortlich
-  gemacht werdet. Dass wird den Zusammenhalt im Dorf eher stärken als
-  schwächen.
+  gemacht werdet. Das wird den Zusammenhalt im Dorf eher stärken als schwächen.
 * Seid ihr dabei?
 
 ## Beinarbeit

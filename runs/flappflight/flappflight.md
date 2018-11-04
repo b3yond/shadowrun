@@ -72,14 +72,29 @@ Fabrikhalle
 ## Fabrikhalle
 
 Fabrik: 1 Fabrikraum mit aufmachbarem Dach, 1 Serverraum, 1 Security-Room mit
-Kamerascreens & Knopf fürs Dach
+Kamerascreens & Knopf fürs Dach. Die Lichter sind Neon-Röhren mit UV.
 
 War mal Besetzt & Konzerthalle, wurde geräumt, damit so ein Startup wieder ne
 Fabrik reinbauen kann. alles voller Grafittis, die die zu faul waren wegzumachen
 
 ### Security
 
-2 Wachen watscheln zwischen Fabrikraum, Serverraum, Security-Room hin und her
+2 Wachen watscheln zwischen Fabrikraum, Serverraum, Security-Room hin und her.
+Ihre Autos stehen vor der Tür. Einer der beiden Wachen hat einen
+DocWagon-Standard-Vertrag - wenn man ihn ausschaltet, ist ein HTR-Team
+unterwegs.
+* 40 Jahre alt, Familienvater, DocWagon-Standard-Vertrag
+* 22 Jahre alt, Skinhead, aggressiv und schießwütig
+Die Werte sind die von Konzernsicherheit:
+(GRW 382):
+* Kommlink Renraku Sensei: Stufe 3
+* Initiative: 7+1d6
+* Dodge: 7
+* Soak: 14
+* Zustandsmonitor: 10
+* Hit: 7
+* Fichetti Security 600: 7K dmg
+* Stun Baton: 9G dmg, DK -5
 
 Im Fabrikraum stehen auch ein paar bewaffnete Rotorrohnen und Watchman-Drohnen
 rum, die über die Matrix aktiviert werden können
@@ -90,8 +105,8 @@ rum, die über die Matrix aktiviert werden können
 Im Serverraum und im Security-Room stehen auch jeweils 1 schlafender Watchman.
 
 Die Wasp-Drohnen sind auf Standby, und müssen über die Matrix aufgeweckt
-werden.  Die Watchman-Drohnen reagieren auf Schussgeräusche, alarmieren die
-Wasp-Drohnen aber erst, wenn sie tatsächlich Runner sehen.  Die Wachleute haben
+werden. Die Watchman-Drohnen reagieren auf Schussgeräusche, alarmieren die
+Wasp-Drohnen aber erst, wenn sie tatsächlich Runner sehen. Die Wachleute haben
 jeweils 2 Marken auf ihnen, um sie zu steuern.
 
 Die Vordertür ist mit einem Magschloss Stufe 2 geschützt.
