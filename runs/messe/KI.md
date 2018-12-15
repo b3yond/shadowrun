@@ -95,16 +95,19 @@ imp-erial1
 * Matrixsuche
   * 0: Die Matrix ist voll mit Werbung, aber keine betrifft die imp-erial1.
   * 1: Ganz viele Selfies von Filmstars mit der imp-erial1. (Fotos)
+  * 2: Das besondere an der imp-erial1 ist die KI. Der Roboter kann sehr
+    ungewöhnliche Befehle verstehen. Alle Besucher sind eingeladen, ihm
+    Anweisungen zu geben, die nicht einprogrammiert sind.
   * Wahrnehmung (4): Der Roboter wirkt sehr lebensnah, tanzt, und macht
     generell viele unnötige Bewegungen, die rein funktionale Maschinen oft
     vermeiden.
-  * 4: Jemand in einem Spezialistenforum schreibt: Der Roboter muss 
-    anscheinend alle 2 Stunden aufgeladen werden. Da verschwindet er dann 
-    immer in einem Backstage-Raum. (Wahrnehmung 2): Auf dem Foto von der 
-    Backstage-Tür ist die Zahl "B1" zu erkennen.
+  * 4: Jemand in einem Spezialistenforum schreibt: Der Roboter muss anscheinend
+    alle 2 Stunden aufgeladen werden. Da verschwindet er dann immer in einem
+    Backstage-Raum. (Wahrnehmung 2): Auf dem Foto von der Backstage-Tür ist die
+    Zahl "B1" zu erkennen.
 * Connections:
-  * 2: Ziemlich verrückt für eine Stadt, mit den Tech-Konzernen in den 
-    Wettbewerb zu treten. Aber was tun die nicht alles für ein paar 
+  * 2: Ziemlich verrückt für eine Stadt, mit den Tech-Konzernen in den
+    Wettbewerb zu treten. Aber was tun die nicht alles für ein paar
     Wählerstimmen.
 
 Stadt München
@@ -124,18 +127,68 @@ es heute zugeht. Lange Schlangen stehen am Eingang, Werbedrohnen fliegen umher
 und beobachten die Umgebung sehr genau. Die Presse ist da und interviewt Leute,
 die in der Schlange stehen.
 
-Der Sicherheitsdienst ist sichtbar, aber stilvoll vercybert. Sie unterziehen
-die Besucher und ihr Ticket einem kurzen Matrixcheck und lassen sie dann durch.
+Das Catering wird von der Firma Dallmayr bereitgestellt, um die Sicherheit
+kümmern sich die schwarzen Sherriffs. Der Sicherheitsdienst ist sichtbar, aber
+stilvoll vercybert. Sie unterziehen die Besucher und ihr Ticket einem kurzen
+Matrixcheck und lassen sie dann durch.
 
-## Security
+* Halle C1: Kampfdrohnen
+* Halle C2: Flugdrohnen
+* Halle B1: Service-Drohnen
+* Halle B2: Drohnen, die nicht nach Drohnen aussehen
+* Halle A1: Medizinische Drohnen
+* Halle A2: Produktionsdrohnen
+
+### SL-Wissen 
+
+Im imp-erial1 steckt Rainer Klemm, ein Gnom und erfolgloser Schauspieler.
+Durch einen Missbrauchsskandal wurde er untragbar und bekam keine Rollen mehr.
+Hierfür wurde er gecastet, weil er ja eh nicht offen auftreten soll.
+
+Die Aura von Rainer wird durch einen der Magier maskiert. Zum durchschauen der
+Maske: Askennen (Schwellenwert 3).
+
+Der imp-erial1 ist ein Matrixgerät, durch das Rainer mit der Umwelt
+interagieren kann. Er hat einen Bildschirm, auf dem ein Smiley Emotionen
+anzeigt, die von Rainers Gesicht abgelesen werden. außerdem 2 Arme und 2
+Beine. Der Roboter ist ca. 1,20m groß und (mit Rainer) 80kg schwer.
+
+Das Gerät kann als Kommlink Stufe 5 behandelt werden. Damit steht Rainer mit
+seinem Manager im Kontakt, um auf unvorhergesehene Sachen reagieren zu können.
+Die Aufnahmen/Chatlogs auf dem Gerät beweisen den Betrug.
+
+Der imp-erial1 fährt in Halle B1 durch die Gegend. Alle 2 Stunden verschwindet
+er im Backstage, um etwas zu trinken, zu essen, und zu pinkeln.
+
+Sein Manager steht am Stand der Stadt München in Halle B1 und preist ihn an.
+Zu jeder vollen Stunde führt er auf einer Bühne einen Tanz auf. Danach erledigt
+er komplexe Aufgaben, die Besucher ihm auftragen können.
+
+Magnus Sünder, sein Manager, hat ein Kommlink Stufe 7 mit heißem Sim-Modul.
+Auch auf dem Kommlink findet man natürlich Beweise für die Kooperation mit
+Rainer, außerdem, dass der OB der Stadt München die ganze Sache in Auftrag
+gegeben hat. 
+
+![Magnus Sünder](Screenshot_2018-12-15_18-35-53.png)
+
+### Security
+
+Da die Messe von der Stadt München organisiert wird, kümmern sich die schwarzen
+Sherrifs um die Sicherheit. 
+
+Die Backstage-Türen sind in der Regel mit einem Magschloss Stufe 2 gesichert.
 
 Der Sicherheitsdienst patrouilliert über das ganze Gelände, insgesamt locker
 200 Leute. Einlass gibt es am Haupteingang im Westen und am Parkhaus im
 Nordwesten. Werte: Schutzpolizist (ADL S. 158)
 
+![Sicherheitsdienst](Screenshot_2018-12-13_22-53-00.png)
+
 Wenn es zu Problemen kommt, rückt nach ca. 5 Minuten auch die härtere
 Eingriffstruppe an. Sie sind zu sechst und gut eingespielt. Werte:
 MET2000-Söldner (ADL S. 161)
+
+![MET2000-Söldner](Screenshot_2018-12-13_22-58-53.png)
 
 Für Magische Sicherheit sehen alle 10 Minuten 2 Magier im Astralraum nach, ob
 etwas ungewöhnliches passiert. 1 Watcher pro Messehalle beobachtet die Gäste.
@@ -143,5 +196,78 @@ etwas ungewöhnliches passiert. 1 Watcher pro Messehalle beobachtet die Gäste.
 Die Magier haben einen Feuergeist der Stufe 6 zur Verfügung, den sie
 herbeizitieren, wenn es hart auf hart kommt.
 
+![Magier](Screenshot_2018-12-15_17-18-07.png)
 
+Kampfdrohnen werden in der Halle C1 ausgestellt. In der Halle sind 8
+einsatzbereite Drohnen, alle nicht im Host:
+
+* 1 Steel Lynx (GRW 473) mit 6 Anti-Fahrzeugraketen und einem Aztechnology
+  Striker
+  * Präzision 5, 24K Schaden, -10DK gegen Fahrzeuge, -4DK gegen andere Ziele
+  * Panzerung 12, Rumpf 6, erstaunlich schnell und wendig, passt nicht durch
+    die Türen
+* 3 Flappflight Wasp Rotordrohnen
+* 4 Flappflight Watchman Wachdrohnen
+
+![Flappflight Wasp](../flappflight/Screenshot_2018-03-09_17-29-14.png)
+
+![Flappflight Watchman](../flappflight/Screenshot_2018-03-09_17-39-10.png)
+
+Außerdem steht in Halle C2 ein Flappflight 1 Hubschrauber herum. Er wurde
+wahrscheinlich durch die Dachluke eingeflogen. Sie ist jetzt geschlossen.
+
+### Matrix
+
+* Host sieht aus wie ein futuristisches Raumschiff
+* etwas zu viel Werbung: Kleine Bildschirme fliegen umher (Sponsoren,
+  Aussteller, etc.)
+* IC in Form von kleinen putzigen Aliens mit Tentakeln
+
+Stufe 5 6587 Host für die Messe + Sicherheitssystem
+* IC
+  * Patrouille (Alien mit 3 Augen)
+  * Aufspüren (ein großes Stielauge)
+  * Killer (viele Arme, Säuredrüsen spritzen Giftwolken)
+  * Marker (4 lange Arme, die eine Marke als Abdruck hinterlassen)
+* Dateien
+  * Liste der Aussteller (ohne Marke lesbar)
+  * Liste der Besucher (Verschlüsselt Stufe 2)
+  * Notausgänge (ohne Marke lesbar)
+  * Gebäudeplan 
+  * Standort der Securitys
+  * Gästeliste
+* Geräte
+  * Kameras (stufe 3)
+  * Dachluke (stufe 1)
+  * Magschlösser (Stufe 2)
+  * imp-erial1 (Stufe 5)
+
+## Kidnapping
+
+Wenn man den Roboter packt und mitnimmt, fängt Rainer zu schreien an. Wenn die
+Runner 2 Erfolge auf Wahrnehmung haben, werden sie das merken und sich wundern
+(wenn Zivilisten da sind, ist die Probe um 2 erschwert).
+
+Früher oder später werden sie merken, dass sie einen Metamensch gekidnappt
+haben, evtl weil gelbe Flüssigkeit aus dem Roboter läuft.
+
+## Belohnung
+
+Am Sonntagabend kriegt einer der Runner einen Anruf, dass "seine Freundin" ein
+Date mit ihm ausmachen will. Die Adresse ist ein Lagerhaus am Nürnberger Hafen.
+Gegenüber parkt ein Wagen von NeoNet. Drinnen wartet Frau Schmidt mit ihren 2
+Trollleibwächtern.
+
+Frau Schmidt wird behaupten, ohne die KI haben die den Auftrag nicht erfüllt
+und keinen Lohn verdient.
+
+Wenn die Runner es schaffen, ihr den Nutzen klarzumachen, erklärt sie sich
+bereit, die Hälfte zu zahlen. Dafür müssen sie mindestens 2 Sachen erfüllen:
+* Den schlechten Ruf von Rainer
+* Dass sie wissen, dass sie für NeoNet arbeiten
+* Rainer mitbringen
+* Chatlogs mitbringen, die die Kommunikation mit dem OB belegen
+
+Wenn den Runnern zusätzlich eine vergleichende Probe auf Verhandeln gelingt,
+zahlt sie den ursprünglichen Lohn.
 
