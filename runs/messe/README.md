@@ -2,10 +2,10 @@
 
 Die Münchner Regierung will zeigen, dass sie die Neuerungen der Zeit nicht
 verschlafen haben. Auf einer Technikmesse zeigen sie eine Zweibeinige
-Service-Drohne, die imp-erial1, die der neue Coup in der
+Service-Drohne, der imp-erial1, die der neue Coup in der
 High-Society-Dienstleistungsbranche werden soll.
 
-Die Entwicklung der imp-erial1 ging völlig geheim vonstatten, auf der Messe
+Die Entwicklung des imp-erial1 ging völlig geheim vonstatten, auf der Messe
 wurde er plötzlich präsentiert und hat die Konkurrenz völlig überrascht.
 Öffentlichkeitswirksam lassen sich nun einige Promis mit dem neuen Roboter
 ablichten, und er ist sofort eine Starmaschine geworden.
@@ -16,10 +16,11 @@ ungewöhnliche Stärke des Pilotprogramms der Drohne aufgefallen, und sie wollen
 sie reverse-engineeren. Also beauftragen sie die Runner, die Drohne zu
 kidnappen.
 
-Was NeoNet nicht weiß - die Entwicklung der KI von imp-erial1 war deswegen so
+Was NeoNet nicht weiß - die Entwicklung der KI vom imp-erial1 war deswegen so
 leise, weil die Drohne gar nicht autonom agiert. Im Inneren steckt ein Gnom und
-bedient die Maschine manuell - deswegen wirkt sie so elegant und dynamisch. Ob
-die Runner das rechtzeitig merken?
+bedient den Roboter manuell - deswegen kann er auf ungewöhnliche Befehle
+reagieren, deswegen wirkt er so elegant und dynamisch. Ob die Runner das
+rechtzeitig merken?
 
 ## Treffen mit Frau Schmidt
 
@@ -93,9 +94,9 @@ modernes, helles und transparentes Ambiente
 
 imp-erial1
 * Matrixsuche
-  * 0: Die Matrix ist voll mit Werbung, aber keine betrifft die imp-erial1.
-  * 1: Ganz viele Selfies von Filmstars mit der imp-erial1. (Fotos)
-  * 2: Das besondere an der imp-erial1 ist die KI. Der Roboter kann sehr
+  * 0: Die Matrix ist voll mit Werbung, aber keine betrifft den imp-erial1.
+  * 1: Ganz viele Selfies von Filmstars mit dem imp-erial1. (Fotos)
+  * 2: Das besondere an dem imp-erial1 ist die KI. Der Roboter kann sehr
     ungewöhnliche Befehle verstehen. Alle Besucher sind eingeladen, ihm
     Anweisungen zu geben, die nicht einprogrammiert sind.
   * Wahrnehmung (4): Der Roboter wirkt sehr lebensnah, tanzt, und macht
