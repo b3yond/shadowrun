@@ -115,8 +115,8 @@ Stadt München
 * Matrixsuche
   * 2: Die Schwarzen Sherrifs, das Polizeiunternehmen in München, besteht aus
     wirklich ekligen Rassisten. 
-* 3: 2075 stehen in München Wahlen an.
-Connections:
+  * 3: 2075 stehen in München Wahlen an.
+* Connections:
   * 4 (kulturell)(nur unter Zwergen): Vor 2 Monaten hat die Stadt München
     Schauspiel-Castings nur für Zwerge ausgeschrieben. Es wurde aber nie etwas
     derartiges aufgeführt.
