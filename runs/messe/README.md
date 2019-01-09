@@ -121,6 +121,17 @@ Stadt München
     Schauspiel-Castings nur für Zwerge ausgeschrieben. Es wurde aber nie etwas
     derartiges aufgeführt.
 
+Rainer Klemm
+* Matrixsuche
+  * 1: Ein Trideo-Schauspieler, der die Hauptrolle in einer Telesoap hatte, die
+    nicht mehr läuft.
+  * 3: Wegen einem Missbrauchsskandal kriegt er keine Rollen mehr.
+* Connections
+  * 3: In den letzten 2 Monaten ist er praktisch von der Bildfläche
+    verschwunden.
+  * 5: Die Stadt München hat ihn als Schauspieler unter Vertrag genommen. Mehr
+    wollte er nicht sagen.
+
 ## Bei der Messe
 
 Die Messe glänzt in der Wintersonne. Schon von außen seht ihr, wie geschäftig
