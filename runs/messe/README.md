@@ -132,6 +132,17 @@ Rainer Klemm
   * 5: Die Stadt München hat ihn als Schauspieler unter Vertrag genommen. Mehr
     wollte er nicht sagen.
 
+Magnus Sünder
+* Matrixsuche
+  * 1: Er arbeitet als selbstständiger PR-Berater für die Stadt München.
+  * 3: Sein Profil ist makellos und aalglatt. Er hat BWL studiert, 2 Jahre
+    davon in den UCAS und Aztlan. Dann war er 5 Jahre Schauspieler, und ist
+    dann in die PR gerutscht.
+  * 4: Er hat eine Actiontrideo-Serie mitgespielt, die aber wegen mangelnder
+    Tiefe nicht verlängert wurde. Hat jetzt nicht soo viele Sterne.
+  * 6: Wurde vor einem Jahr wegen Novacoke angeklagt, aber das Verfahren wurde
+    mysteriöserweise eingestellt. Sieht nach Beziehungen oder Bestechung aus.
+
 ## Bei der Messe
 
 Die Messe glänzt in der Wintersonne. Schon von außen seht ihr, wie geschäftig
