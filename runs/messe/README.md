@@ -258,7 +258,6 @@ Stufe 5 6587 Host für die Messe + Sicherheitssystem
   * Notausgänge (ohne Marke lesbar)
   * Gebäudeplan 
   * Standort der Securitys
-  * Gästeliste
 * Geräte
   * Kameras (stufe 3)
   * Dachluke (stufe 1)
