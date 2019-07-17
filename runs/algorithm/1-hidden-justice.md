@@ -105,8 +105,16 @@ Adrian Doe
 Hidden Justice Ltd.
 - Wikipedia
   - 1: Private Detektei. Angebot: Personenschutz, Recherche, Matrixsicherheit,
-    "Besondere Wünsche".
+    "Besondere Wünsche". Kontaktadresse: kontakt@hidden-justice.ltd
   - 3: in den letzten Jahren stark gewachsen
+- Blackhat
+  - 2: Sind ein passabler Arbeitgeber, aber nehmen nicht jeden. Nicht immer
+    ethisch korrekt natürlich.
+  - 4: Dafür, dass die Matrixsicherheit machen, ist der Host nicht so krass -
+    ist eher auf Abschreckung aus, die starten sofort Schwarzes ICE.
+  - 5: Wenn man sich bei der kontakt@hidden-justice.ltd als Kunde oder Bewerber
+    ausgibt, wird man in den Host zu einem Gespräch mit einem der Teamleiter
+    eingeladen.
 
 Horizon
 - Wikipedia
@@ -124,6 +132,10 @@ Horizon
 
 ## Matrix-Hosts
 
+Wenn man eine Datei aus dem Archiv haben will, muss man jemanden, der bereits
+eine Marke auf der betreffenden Datei besitzt, dazu bringen, diese aus dem
+Archiv zu holen.
+
 Hosts befinden sich auf einem Gitter, sind aber von allen aus erreichbar
 
 Gitter: wenn Ziel auf anderem Gitter ist, -2 Würfelmodifikator (nicht in Hosts)
@@ -133,8 +145,9 @@ Gitter: wenn Ziel auf anderem Gitter ist, -2 Würfelmodifikator (nicht in Hosts)
 - pechschwarzes Labyrinth, Nebel
 - man kann nicht über die Wände drübergucken
 - an den Wänden hängen kleine Dateien, append-only chatlogs
-- man kann hier Paydata zum Verkauf anbieten
-  - Man gibt sie einem Agenten, der speichert sie im Archiv
+- In der Mitte des Labyrinths ist ein Minotaurus. (Agent)
+  - man kann hier Paydata zum Verkauf anbieten
+  - Man gibt sie dem Minotaurus, der speichert sie im Archiv
   - Wenn jmd die Paydata kauft, kriegt der Host 10%.
 - fast alle Leute hier sind auf Schleichfahrt
 - Das ICE sieht aus wie Sillhouetten mit weißen bis grauen Hüten
@@ -145,13 +158,24 @@ Gitter: wenn Ziel auf anderem Gitter ist, -2 Würfelmodifikator (nicht in Hosts)
   - Chatlog-Backups (Verschlüsselt, Stufe 2)
 
 Ein Agent kümmert sich darum, die Chatlogs im Archiv zu backuppen wenn das
-Patrouillen-ICE herausfindet, dass man ein Chatlog gelöscht hat, schickt es
-einen Agenten los, um aus dem Archiv das Backup wiederherzustellen.
+Patrouillen-ICE herausfindet, dass man ein Chatlog gelöscht hat, geht der
+Minotaurus los, um aus dem Archiv das Backup wiederherzustellen.
 
 Der Host ist erstmal einfach nur ein Forum, aber kann auch zur Versteigerung
-oder Verkauf von Paydata verwendet werden. Wenn man es schafft, einen der
-Backup-&-Restore-Agenten dazu zu bringen, Paydata statt Chatlogs zu restoren,
-kann man Paydata klauen.
+oder Verkauf von Paydata verwendet werden. Wenn man es schafft, 
+den Minotauren dazu zu bringen, Paydata statt Chatlogs zu restoren,
+kann man Paydata klauen. 
+
+Dafür muss man erst den Minotaurus nach der Liste an Paydata fragen, und sich
+eine aussuchen. die Wand, an der das Chatlog hängt, anders anmalen (editieren,
+um ihr eine bestimmte Adresse geben), dann das Chatlog hacken und Beiträge
+löschen, sich bedeckt halten, während der Minotaurus die Paydata restored, und
+dann die Paydata abstauben. Step by Step:
+- Liste an Paydata vom Minotaurus kriegen, eine aussuchen
+- Software-Probe Schwelle 4: Adresse herausfinden
+- Wand editieren (Datei editieren, erschwert um 4 weil nicht vorgesehen)
+- Eine Marke aufs Chatlog kriegen, editieren zum Beiträge löschen -> Alarm
+- Durchhalten, bis der Minotaurus die Paydata restored hat
 
 Hoststufe 3
 
@@ -214,7 +238,7 @@ Marker, Killer, Säure, Wirbel.
 
 Wenn man mithilfe eines Tickets einen Agenten nach einem Trideo fragt, holt er
 die Datei aus dem Archiv und führt einen in den leeren Kinosaal, wo man das
-Trideo dann recht alleine gucken kann. 
+Trideo dann entweder alleine oder gemeinsam gucken kann. 
 
 Um in bestehende Räume zu kommen, braucht man eine Marke.
 
@@ -233,19 +257,21 @@ Patrouillen-ICE ist permanent aktiv, und sucht alle 1W6 Kampfrunden nach Icons
 auf Schleichfahrt. Wenn Alarm ausgelöst wird, startet der Host Leuchtspur,
 Marker, Blaster, Säure, Sparky.
 
-1W6+3 Runden nach Alarm kommt eine Sicherheitsspinne Stufe 4:
-- Willenskraft 5, Logik 7, Intuition 5.
-- Initiative 11+3W6
+1W6+3 Runden nach Alarm kommt eine Standard-Sicherheitsspinne Stufe 3:
+- Willenskraft 4, Logik 4, Intuition 4.
+- Initiative 10+3W6
+- Matrix-Schadenswiderstand 10, Biofeedbackwiderstand 8
 - Matrix-Fertigkeiten 5
-- Cyberdeck Stufe 4 (10): A6 S4 D5 F7
+- Cyberdeck Stufe 3 (10): A6 S3 D6 F5
 - Zustandsmonitor 11G
 
 Wenn man in den Raum einbricht, in dem herculee gerade einen Krimi guckt:
-- Willenskraft 5, Logik 5, Intuition 3.
+- Willenskraft 5, Logik 5, Intuition 4.
 - Initiative 11+4W6
 - Matrix-Fertigkeiten 5
-- Cyberdeck Stufe 3 (10): A3 S4 D6 F5
-- Zustandsmonitor 9K
+- Cyberdeck Stufe 3 (10): A3 S5 D6 F4
+- Matrix-Schadenswiderstand 7, Biofeedbackwiderstand 9
+- Zustandsmonitor 11K
 - Er hält sich gerade in einem Büro auf, dass Hidden Justice Ltd. gehört.
 - Auf seinem Deck findet man:
   - SIN: Lee Wang
@@ -258,6 +284,23 @@ Wenn man in den Raum einbricht, in dem herculee gerade einen Krimi guckt:
 
 ### Hidden Justice Ltd.
 
+- Sonnendurchflutete Marmor-Eingangshalle
+- Altmodische Porträts an den Wänden; scheinen einen immer anzuschauen
+  - Patrouillen-ICE
+- Sonst eher schmucklos, keine Möbel. der Host lädt nicht zum Verweilen ein
+- Lebendige Justitia-Statue begrüßt Gäste
+- Hinter Justitia hängen Steintafeln
+- Justitia geleitet einen zum Büro des Teamleiters, zu dem man will
+- Wollen Kunden das Gefühl vermitteln, dass ihre Bedürfnisse ethisch okay sind.
+- Schleichfahrt ist in den Büros nicht gestattet.
+
+Die Steintafeln sind öffentliche Ankündigungen und Kommunikation; sie sind mit
+Stufe 2 Verschlüsselt.
+
+Die Besprechungsräume (Stufe 3) sind nochmal geschützt, mit einer Marke kommt
+man rein. Im Archiv findet man Akten über vergangene Aufträge, und eine
+Datenbank über Mitarbeiter. Die jeweiligen Teamleiter haben eine Marke darauf.
+
 Adrian Doe (Kommlink Stufe 4)
 - Chatlog mit Yin Dawg, das bei "Der Abteilung" von Horizon arbeitet
   - Liste: diese Leute bedrohen die Sicherheit von Horizon und müssen sterben
@@ -265,7 +308,24 @@ Adrian Doe (Kommlink Stufe 4)
     Zelle bald erreicht
   - 10.000 Nuyen pro Name
   - Heute Nacht: Nathanael, Social KI
-- Verträge mit Lee Wang und drei HJ-Söldnern: tarballs aufspüren und töten
-- Dutzende ähnliche Verträge
+
+Hoststufe 3
+
+- Angriff 5
+- Schleicher 3
+- Datenverarbeitung 4
+- Firewall 6
+
+Kunden oder Bewerber kommen hier nur rein, wenn vorher bei
+kontakt@hidden-justice.ltd angefragt. Bekannte Mitarbeiter kommen ohne Probleme
+rein.
+
+Patrouillen-ICE checkt alle 1W6 Runden ob in den Besprechungsräumen Icons auf
+Schleichfahrt sind. Wenn ja, wird der Alarm ausgelöst. 1W6+3 Runden nach
+auslösen des Alarms trifft herculee ein, die Sicherheitsspinne.
+
+Wenn der Alarm ausgelöst wird, startet der Host Schwarzes ICE, Aufspüren,
+Säure, Leuchtspur, und Absturz. Wenn eins davon abstürzt, startet der Host es
+neu, bevor er die Liste weiter abarbeitet. 
 
 
