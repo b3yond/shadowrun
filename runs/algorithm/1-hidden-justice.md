@@ -11,7 +11,7 @@ Technomancer jagt. Die HA gibt ihnen eine Liste, sie spüren die Leute darauf
 auf und machen sie platt.
 
 C3r34l K1ll4 ist ein Decker, der aus den ADL nach Aztlan ausgewandert ist.
-Neulich war er mit tarballs, einer Technomancerin, auf einem Run - als
+Neulich war er mit tarballs, eins Technomancer, auf einem Run - als
 plötzlich ein dritter Hacker aufgetaucht ist, sie unterbrochen, und tarballs
 Aufenthaltsort aufgespürt hat.
 
@@ -35,7 +35,7 @@ Sicherer Raum
   90s-Film, mit zwei Zöpfen und einer bunten Brille mit runden Gläsern.
 
 Er erzählt:
-- hatte ne gute Freudin, tarballs, erinnerst du dich?
+- hatte eine gute Freundin, tarballs, erinnerst du dich?
 - vllt vom lurken, hat selten was gesagt, blieb für sich.
 - Wir waren auf einem Run, nichts besonderes, Beinarbeit für einen größeren Run
   gegen die Azzies.
@@ -50,7 +50,7 @@ Er erzählt:
   gesehen.
 - Der einzige Anhaltspunkt ist der Hacker - ich habe nur sein Handle
   mitgekriegt, er nannte sich "herculee", seine Persona war so ein
-Schnüffelhund.
+  Schnüffelhund.
 - Außerdem ist er danach ins Horizon-Gitter gesprungen - danach konnte mein
   Agent ihn leider nicht weiterverfolgen.
 
@@ -60,49 +60,69 @@ Auftrag:
 
 ## Beinarbeit
 
+tarballs
+- Connections (Hacker)
+  - 2: Netter Mensch, hat meistens nicht viel gesagt, blieb für sich.
+  - 3: War ziemlich sauer auf Horizon. 
+  - 4: Hat früher mal bei Horizon gearbeitet, ist unter komischen Umständen
+    gegangen.
+  - 5: Sie hat sich selbst Cyberhexe genannt - kp was das bedeutet.
+- tarballs.net
+  - 2: Träumt von anderer Art zu hacken; Gefühl ist wichtiger als die richtigen
+    Tools. Stellt euch vor, man könnte ohne Gerät in die Matrix.
+  - 4: Hat früher für Horizon gearbeitet. Freunde sind beim Las Vegas-Massaker
+    draufgegangen - daraufhin Aufnahmen davon veröffentlicht und abgesetzt.
+
 herculee
 - Connections (Hacker)
   - 0-2: Nie gehört, sorry.
   - 4: War vor ein paar Jahren auch mal im Blackhat-Board unterwegs - ist in
     die legale Wirtschaft gegangen, als er erwischt wurde. Trideo-Freak.
   - 6: herculee arbeitet jetzt für so eine Detektei, legal.
-- Matrixsuche (Horizon-Gitter)
-  - Blackhat; Hacking-Forum
-     - 2: Ist in die legale Wirtschaft gegangen, als er erwischt wurde.
-     - 4: Arbeitet jetzt für Hidden Justice Ltd., eine Detektei.
-  - RottenTomatoes; Trideo-Kritik-Forum
-     - 2: Der User herculee guckt sehr oft Krimis auf Njetflix.
-     - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
-  - Njetflix; Streaming-Plattform von Horizon
-     - 2: Der User herculee guckt sehr oft Krimis.
-     - 4: herculee guckt hier gerade einen älteren Krimi von Agatha Christie.
-     - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
+- Blackhat; Hacking-Forum
+   - 2: Ist in die legale Wirtschaft gegangen, als er erwischt wurde.
+   - 4: Arbeitet jetzt für Hidden Justice Ltd., eine Detektei.
+- RottenTomatoes; Trideo-Kritik-Forum
+   - 2: Der User herculee guckt sehr oft Krimis auf Njetflix.
+   - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
+- Njetflix; Streaming-Plattform von Horizon
+   - 2: Der User herculee guckt sehr oft Krimis.
+   - 4: herculee guckt hier gerade einen älteren Krimi von Agatha Christie.
+   - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
 
 Lee Wang (herculee)
-- Matrixsuche:
-  - Fakebook
-    - 0-3: Da gibt es ziemlich viele.
-    - 4: Hat drei Kinder, alleinerziehender Vater. Arbeitet in der IT-Security.
-    - 5: Teilt oft Trideo-Kritiken von einem gewissen herculee.
-  - LeakedIn
-    - 2: Arbeitet als IT-Security für Hidden Justice Ltd.
+- Fakebook
+  - 0-3: Da gibt es ziemlich viele.
+  - 4: Hat drei Kinder, alleinerziehender Vater. Arbeitet in der IT-Security.
+  - 5: Teilt oft Trideo-Kritiken von einem gewissen herculee.
+- LeakedIn
+  - 2: Arbeitet als IT-Security für Hidden Justice Ltd.
 
 Adrian Doe
-- Matrixsuche:
-  - Hidden Justice Ltd.
-    - 1: Adrian Doe, Teamleiter, Kontaktadresse.
+- Hidden Justice Ltd.
+  - 1: Adrian Doe, Teamleiter, Kontaktadresse: doe@hidden-justice.ltd
 
 Hidden Justice Ltd.
-- Matrixsuche:
+- Wikipedia
   - 1: Private Detektei. Angebot: Personenschutz, Recherche, Matrixsicherheit,
     "Besondere Wünsche".
   - 3: in den letzten Jahren stark gewachsen
-  - Hidden Justice Ltd.
-    - 
+
+Horizon
+- Wikipedia
+  - 0: Durch den Aufbau der zweiten Matrix in die AAA-Riege aufgestiegen
+  - 1: Demokratisch regiert vom Consensus; Überwachungs-Algorithmus, der die
+    Meinung der Mitarbeiter auswertet und umsetzt.
+  - 2: Vegas-Massaker: 2074 ließ Horizon die Teilnehmer einer Riot abschlachten
+  - 3: Consensus wurde 2074 vom CEO abgeschaltet, damit sich solche Massaker
+    nicht wiederholen, scheint böse geworden zu sein. Consensus 2.0 hat weniger
+    Befugnisse
+- Hidden Justice Ltd.
+  - 3: Kunde, wird von Adrian Doe betreut
+  - 5: Die liefern immer einfach eine Liste mit Namen, die ausgeschaltet werden
+    sollen.
 
 ## Matrix-Hosts
-
-Dran denken: Archive
 
 Hosts befinden sich auf einem Gitter, sind aber von allen aus erreichbar
 
@@ -238,7 +258,14 @@ Wenn man in den Raum einbricht, in dem herculee gerade einen Krimi guckt:
 
 ### Hidden Justice Ltd.
 
-
-
+Adrian Doe (Kommlink Stufe 4)
+- Chatlog mit Yin Dawg, das bei "Der Abteilung" von Horizon arbeitet
+  - Liste: diese Leute bedrohen die Sicherheit von Horizon und müssen sterben
+  - Liste wurde von Algorithmus errechnet. Hoffentlich haben wir das Herz der
+    Zelle bald erreicht
+  - 10.000 Nuyen pro Name
+  - Heute Nacht: Nathanael, Social KI
+- Verträge mit Lee Wang und drei HJ-Söldnern: tarballs aufspüren und töten
+- Dutzende ähnliche Verträge
 
 
