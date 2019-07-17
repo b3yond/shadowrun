@@ -78,6 +78,28 @@ herculee
      - 4: herculee guckt hier gerade einen älteren Krimi von Agatha Christie.
      - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
 
+Lee Wang (herculee)
+- Matrixsuche:
+  - Fakebook
+    - 0-3: Da gibt es ziemlich viele.
+    - 4: Hat drei Kinder, alleinerziehender Vater. Arbeitet in der IT-Security.
+    - 5: Teilt oft Trideo-Kritiken von einem gewissen herculee.
+  - LeakedIn
+    - 2: Arbeitet als IT-Security für Hidden Justice Ltd.
+
+Adrian Doe
+- Matrixsuche:
+  - Hidden Justice Ltd.
+    - 1: Adrian Doe, Teamleiter, Kontaktadresse.
+
+Hidden Justice Ltd.
+- Matrixsuche:
+  - 1: Private Detektei. Angebot: Personenschutz, Recherche, Matrixsicherheit,
+    "Besondere Wünsche".
+  - 3: in den letzten Jahren stark gewachsen
+  - Hidden Justice Ltd.
+    - 
+
 ## Matrix-Hosts
 
 Dran denken: Archive
@@ -196,7 +218,23 @@ Marker, Blaster, Säure, Sparky.
 - Initiative 11+3W6
 - Matrix-Fertigkeiten 5
 - Cyberdeck Stufe 4 (10): A6 S4 D5 F7
-- Zustandsmonitor 11
+- Zustandsmonitor 11G
+
+Wenn man in den Raum einbricht, in dem herculee gerade einen Krimi guckt:
+- Willenskraft 5, Logik 5, Intuition 3.
+- Initiative 11+4W6
+- Matrix-Fertigkeiten 5
+- Cyberdeck Stufe 3 (10): A3 S4 D6 F5
+- Zustandsmonitor 9K
+- Er hält sich gerade in einem Büro auf, dass Hidden Justice Ltd. gehört.
+- Auf seinem Deck findet man:
+  - SIN: Lee Wang
+  - Bilder von seinen Kindern
+  - ein paar mitgeschnittene Trideos
+  - Chatlogs mit Adrian Doe (Vorgesetzter), dass das Aufspüren von tarballs ihm
+    2.000 Nuyen eingebracht hat.
+  - Schichtplan Matrixsicherheit bei Hidden Justice Ltd. - Er hat jetzt grade,
+    und morgen um die selbe Zeit Schicht.
 
 ### Hidden Justice Ltd.
 
