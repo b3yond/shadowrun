@@ -189,6 +189,48 @@ reinhacken. Patrouillen-ICE ist permanent aktiv, checkt aber nur, ob die
 Chatlogs verändert werden. Wenn das passiert, startet Marker, und dann
 Wirbel-ICE. 
 
+#### Fundament
+
+- Du trittst durch eine Verandatür in einen Vorgarten.
+- Die Hauptcharaktere von The Matrix sitzen auf der Terasse an einem Tisch und
+  spielen Karten.
+- Du kennst das Spiel nicht; sie stecken sich laufend gegenseitig Karten zu,
+  gucken sich in die Karten; Morpheus füttert sogar den White Rabbit damit.
+- Hinter ihnen beginnt ein Labyrinth aus hohen Hecken, das sich ständig ändert.
+- [Du kommst zwar aus einem Haus, aber es entpuppt sich als eine Holzwand, die
+  nur billig angemalt wurde.]
+
+Abweichungen: Das Labyrinth betreten, versuchen in das Haus zu gehen, mit
+Spielen aufhören (erst nur zugucken ist okay), den Tisch umwerfen (schwer).
+
+##### Bewohner:
+
+- Neben Agent Smith sitzen das Orakel und Cypher; Cypher steckt ihm Karten zu,
+  das Orakel schaut ihm in die Hand.
+- Neo mischt das Deck, nimmt ständig Karten aus dem Ablagestapel in der Mitte,
+  verteilt neue, ständig in Bewegung.
+- Trinity steht mit verschränkten Armen hinter ihm und guckt schweigend zu. 
+  - Ab und zu reicht er ihr eine Karte, sie guckt kurz drauf, reicht sie
+    zurück.
+- Agent Smith spielt gegen Morpheus. Morpheus zieht ab und zu Karten vom
+  Ablagestapel. 
+- Er füttert damit das weiße Kaninchen, das auf seiner Schulter sitzt. Es kotzt
+  ab und zu seinen Mageninhalt vor ihm auf den Tisch.
+
+Alle haben Attribute auf 3, aber Fertigkeiten schon mal auf 4 oder 5.  Wenn es
+zum Kampf kommt, ziehen sie alle verschiedenste Schusswaffen und ballern auf
+den Eindringling: 6d6 Treffen, 5K Schaden, 0 DK.
+
+##### Knoten:
+
+- Cypher: Slave-Steuerung
+- Agent Smith: Sicherheitszentrale
+- Das Orakel: Archiv
+- Neo: Hauptkontrolle
+- Trinity: Null-Knoten
+- Morpheus: Bühnensteuerung
+- Ein weißer Hase: Portal
+
 ### RottenTomatoes
 
 - Eine Blumenwiese, aber statt Blumen wachsen hier Tomaten.
@@ -298,8 +340,9 @@ Die Steintafeln sind öffentliche Ankündigungen und Kommunikation; sie sind mit
 Stufe 2 Verschlüsselt.
 
 Die Besprechungsräume (Stufe 3) sind nochmal geschützt, mit einer Marke kommt
-man rein. Im Archiv findet man Akten über vergangene Aufträge, und eine
-Datenbank über Mitarbeiter. Die jeweiligen Teamleiter haben eine Marke darauf.
+man rein. Im Archiv findet man Akten über vergangene Aufträge, eine Datenbank
+über Mitarbeiter, und eine über Kunden. Die jeweiligen Teamleiter haben eine
+Marke darauf.
 
 Adrian Doe (Kommlink Stufe 4)
 - Chatlog mit Yin Dawg, das bei "Der Abteilung" von Horizon arbeitet
@@ -327,5 +370,7 @@ auslösen des Alarms trifft herculee ein, die Sicherheitsspinne.
 Wenn der Alarm ausgelöst wird, startet der Host Schwarzes ICE, Aufspüren,
 Säure, Leuchtspur, und Absturz. Wenn eins davon abstürzt, startet der Host es
 neu, bevor er die Liste weiter abarbeitet. 
+
+#### Fundament
 
 
