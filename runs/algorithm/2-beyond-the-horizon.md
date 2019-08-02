@@ -1,32 +1,39 @@
-# Hidden Justice
+# Beyond the Horizon
 
-Horizon war immer mal wieder Ziel von Technomancern und KIs, weil sie Versuche
-an Technomancern durchgeführt haben. Das alte Consensus-System von Horizon hat
-deshalb eine Abteilung gegründet, die verdeckt Jagd auf sie macht, sie durch
-Algorithmen überwachen, und dann von Hidden Justice Ltd. ausschalten lässt. 
-
-Hidden Justice Ltd. ist eine Detektei, die durch Wetwork-Aufträge für größere
-Kons gewachsen ist. Einer der größten Kunden ist die Horizon-Abteilung, die
-Technomancer jagt. Die HA gibt ihnen eine Liste, sie spüren die Leute darauf
-auf und machen sie platt.
-
-C3r34l K1ll4 ist ein Decker, der aus den ADL nach Aztlan ausgewandert ist.
-Neulich war er mit tarballs, eins Technomancer, auf einem Run - als
-plötzlich ein dritter Hacker aufgetaucht ist, sie unterbrochen, und tarballs
-Aufenthaltsort aufgespürt hat.
-
-Eine halbe Stunde später war tarballs tot. C3r34l K1ll4 fand den Hacker jedoch
-nach einiger Recherche wieder. Er kann selbst nichts gegen ihn tun, aber er
-gibt der Spielerin den Auftrag, herauszufinden, wer die Hintermänner waren.
+"Die Abteilung" ist eine Sektion von Horizon, die heimlich vom alten
+Consensus-System gegründet wurde, bevor es abgeschalten wurde.  Es erledigt
+nach wie vor den letzten Willen von Consensus 1.0 - einer davon ist die
+Überwachung und Jagd auf Technomancer und KIs, die von einem Algorithmus als
+Teil einer Verschwörung gegen Horizon gesehen werden.
 
 Einige Leute sind fälschlicherweise ins Fadenkreuz gelangt, weil der
-Algorithmus schon lange nicht mehr richtig funktioniert. Die Spielerin findet
-die Liste an zu eliminierenden Personen. Was sie damit macht, ist ihre Sache.
+Algorithmus schon lange nicht mehr richtig funktioniert. 
 
-## Auftrag
+Hidden Justice Ltd. ist eine Detektei, die durch Wetwork-Aufträge für größere
+Kons gewachsen ist. Einer der größten Kunden ist die Abteilung. Die Abteilung
+gibt ihnen eine Liste, sie spüren die Leute darauf auf und machen sie platt.
 
-Du kriegst eine Nachricht von C3r34l K1ll4, dass er einen Job für dich hat, was
-persönliches. Und ob ihr euch in einem sicheren Host treffen wollt.
+C3r34l K1ll4 ist ein Decker, der aus den ADL nach Aztlan ausgewandert ist.
+Neulich war er mit tarballs, eins Technomancer, auf einem Run - als plötzlich
+Herculee, ein dritter Hacker, aufgetaucht ist, sie unterbrochen, und tarballs
+Aufenthaltsort aufgespürt hat.
+
+Eine halbe Stunde später war tarballs tot. C3r34l K1ll4 fand Herculee jedoch
+nach einiger Recherche wieder. Er konnte selbst nichts gegen ihn tun, aber er
+gab Ezma den Auftrag, herauszufinden, wer die Hintermänner waren.
+
+Ezma heftete sich an seine Fersen, hackte sein Deck und das Kommlink seines
+Teamleiters Adrian Doe, und fand heraus, dass sie für Die Abteilung Leute
+jagen, und dass die Liste von einem Algorithmus zusammengestellt wird.  Die
+nächsten zwei Leute auf der Liste sind Nathanael und die Social-KI.
+
+C3r34l K1ll4 würde die beiden gerne warnen, und den Algorithmus stoppen - Ezma
+hilft evtl mit?
+
+## Möglicher Besprechungsraum: Wegwerf-Host
+
+Ezma versucht wahrscheinlich, Nathanael & die Social-KI zu kontaktieren, und
+lädt sie dann zu C3r34l K1lla in den Besprechungshost ein.
 
 Sicherer Raum
 - grau und schal im Vergleich zur bunten Matrix
@@ -34,29 +41,19 @@ Sicherer Raum
 - C3r34l K1ll4 ist schon da; er sieht aus wie ein ausgeflippter Typ aus einem 
   90s-Film, mit zwei Zöpfen und einer bunten Brille mit runden Gläsern.
 
-Er erzählt:
-- hatte eine gute Freundin, tarballs, erinnerst du dich?
-- vllt vom lurken, hat selten was gesagt, blieb für sich.
-- Wir waren auf einem Run, nichts besonderes, Beinarbeit für einen größeren Run
-  gegen die Azzies.
-- Plötzlich taucht ein dritter Hacker auf - haben wir erst gar nicht bemerkt.
-- Scannt uns trotz Schleichfahrt, reißt ihr die Tarnung weg, und spürt sie auf.
-- Sie hat direkt gerebootet, und meinte, sie setzt sich ab.
-- Kam aber nicht weit - wenige Straßen von ihrer Wohnung wurde sie später tot
-  aufgefunden.
-- Wurde nie aufgeklärt. Solche Tode will in Aztlan niemand aufklären.
-- Außer mir - ich will wissen, wer die Hintermänner waren.
-- Ich kann mich aber nicht selbst einmischen - der Hacker hat mich schon
-  gesehen.
-- Der einzige Anhaltspunkt ist der Hacker - ich habe nur sein Handle
-  mitgekriegt, er nannte sich "herculee", seine Persona war so ein
-  Schnüffelhund.
-- Außerdem ist er danach ins Horizon-Gitter gesprungen - danach konnte mein
-  Agent ihn leider nicht weiterverfolgen.
+Entweder CK oder Ezma erzählen:
+- Es gibt anscheinend eine sogenannte "Die Abteilung" bei Horizon, die euch
+  jagt.
+- Ein Horizon-Algorithmus erstellt eine Liste an Verschwörern gegen Horizon.
+- Die Werden dann von Hidden Justice Ltd. aufgespürt und umgebracht.
+- Eine Freundin von CK, tarballs, wurde neulich zum Opfer der Abteilung.
+- Deswegen hat Ezma versucht, herauszufinden, wer dahintersteckt, und sich bei
+  Hidden Justice Ltd. eingehackt.
+- Dabei kam auch heraus, dass ihr die nächsten zwei Ziele seid.
+- Das Verantwortliche bei Horizon heißt Yin Dawg - das ist die einzige Spur
+  momentan.
 
-Auftrag:
-- Ziel: Herausfinden, wer den Mord beauftragt hat und warum.
-- Bezahlung: Einen Gefallen, und 5.000 Nuyen Freundschaftspreis
+Ziel: Den Algorithmus stoppen, der ständig neue Opfer errechnet.
 
 ## Beinarbeit
 
@@ -87,7 +84,6 @@ herculee
    - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
 - Njetflix; Streaming-Plattform von Horizon
    - 2: Der User herculee guckt sehr oft Krimis.
-   - 4: herculee guckt hier gerade einen älteren Krimi von Agatha Christie.
    - Der User hat eine reale SIN mit Bezahlungsdaten hinterlegt. Hacken s.u.
 
 Lee Wang (herculee)
@@ -121,7 +117,8 @@ Horizon
   - 0: Durch den Aufbau der zweiten Matrix in die AAA-Riege aufgestiegen
   - 1: Demokratisch regiert vom Consensus; Überwachungs-Algorithmus, der die
     Meinung der Mitarbeiter auswertet und umsetzt.
-  - 2: Vegas-Massaker: 2074 ließ Horizon die Teilnehmer einer Riot abschlachten
+  - 2: Vegas-Massaker: 2074 ließ Horizon die Teilnehmer einer Riot
+    abschlachten; es gab dabei ungewöhnlich viel Matrix-Vandalismus.
   - 3: Consensus wurde 2074 vom CEO abgeschaltet, damit sich solche Massaker
     nicht wiederholen, scheint böse geworden zu sein. Consensus 2.0 hat weniger
     Befugnisse
@@ -134,11 +131,69 @@ Horizon
 
 Wenn man eine Datei aus dem Archiv haben will, muss man jemanden, der bereits
 eine Marke auf der betreffenden Datei besitzt, dazu bringen, diese aus dem
-Archiv zu holen.
+Archiv zu holen. Oder: Tiefenhack.
 
 Hosts befinden sich auf einem Gitter, sind aber von allen aus erreichbar
 
 Gitter: wenn Ziel auf anderem Gitter ist, -2 Würfelmodifikator (nicht in Hosts)
+
+### Grauer Wegwerfhost
+
+- grau und schal im Vergleich zur bunten Matrix
+- geht endlos in alle Richtungen, keine Schwerkraft
+- komplett unbelebt und leer
+
+Hoststufe 1 - ASDF 1111
+
+#### Fundament
+
+- Hotelzimmer
+- Kaffeetassen umgeschmissen
+- Bunte Kissen und Decken liegen herum
+- Der Fernseher zeigt eine altmodische zweidimensionale Tierdoku
+- Ameisen laufen hektisch herum
+- Manche Lampen leuchten, manche nicht
+- Ein Gemälde hängt an der Wand, Venedig ist abgebildet
+- Eine Riesenameise kommt durch die Tür und beginnt aufzuräumen, macht aber
+  alles nur schlimmer.
+
+Bei genauerer Betrachtung:
+- Es gibt sowohl 7 Lampen als auch 7 Kissen.
+- Die Ameisen laufen als Ameisenstraßen zwischen den Kissen hin und her.
+- Immer, wenn man ein Kissen berührt, geht eine Lampe aus oder an [ist dann
+  aber keine Abweichung und folgt auch keinem Muster]
+
+Abweichungen:
+- Sprechen
+- Sich nicht in einer Reihe bewegen
+- Länger der Tierdoku zugucken
+- Das Licht an- oder ausmachen (Schwer)
+- Aufräumen (Schwer)
+
+##### Bewohner
+
+Die Ameisen haben alle Attribute und Fertigkeiten auf 1.
+
+Man kann mit den Tieren in der Tierdoku reden, sie erklären einem dann, dass
+man bloß nicht aufräumen soll. Ist aber eine Abweichung.
+
+##### Knoten
+
+Die Kissen sind die Knoten, die Ameisen laufen so zwischen ihnen hin und her,
+wie man es erwartet, und kriechen in die Bezüge rein.
+
+Um den Host zu beeinflussen, muss man die Kissen unterschiedlich lange
+ausschütteln.
+
+Die Kissen haben verschiedene Farben:
+
+- Archiv: Violett
+- Sicherheitszentrale: Blau
+- Slave-Steuerung: Grün
+- Hauptkontrolle: Rot
+- Null-Knoten: Schwarz
+- Bühnensteuerung: Gelb
+- Portal: Weiß
 
 ### Blackhat
 
