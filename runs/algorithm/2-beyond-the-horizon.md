@@ -142,6 +142,10 @@ Gitter: wenn Ziel auf anderem Gitter ist, -2 Würfelmodifikator (nicht in Hosts)
 - grau und schal im Vergleich zur bunten Matrix
 - geht endlos in alle Richtungen, keine Schwerkraft
 - komplett unbelebt und leer
+- weit unter euch ist es dunkler; wenn man in die Richtung schwebt, findet man
+  einen schwarzen Strudel -> Eingang zum Fundament.
+  - Der Strudel ist voller gefährlicher Brocken; mit einer Marke halten sie
+    kurz an und man kann durchspringen. Verteidigt sich mit 4 Würfeln.
 
 Hoststufe 1 - ASDF 1111
 
@@ -206,6 +210,8 @@ Die Kissen haben verschiedene Farben:
   - Wenn jmd die Paydata kauft, kriegt der Host 10%.
 - fast alle Leute hier sind auf Schleichfahrt
 - Das ICE sieht aus wie Sillhouetten mit weißen bis grauen Hüten
+- Am Ende des Labyrinths ist der Totenfluss Styx; Charon (Schwarzes ICE) wartet
+  dort mit einem Boot.
 
 - Öffentlich: Chatlogs (Stufe 3)
 - Archiv: 
@@ -232,6 +238,10 @@ dann die Paydata abstauben. Step by Step:
 - Eine Marke aufs Chatlog kriegen, editieren zum Beiträge löschen -> Alarm
 - Durchhalten, bis der Minotaurus die Paydata restored hat
 
+Um ins Fundament zu kommen, muss man von Charons Boot in den Styx springen/es
+zum Kentern bringen. Charon ist schwarzes ICE und bewacht das Tor zum
+Fundament.
+
 Hoststufe 3
 
 - Angriff 5
@@ -242,7 +252,7 @@ Hoststufe 3
 Der Host lässt niemanden einfach so rein, man muss sich schon erfolgreich
 reinhacken. Patrouillen-ICE ist permanent aktiv, checkt aber nur, ob die
 Chatlogs verändert werden. Wenn das passiert, startet Marker, und dann
-Wirbel-ICE. 
+Wirbel-ICE. Das Boot verteidigt sich gegen Markensetzen mit 10 Würfeln.
 
 #### Fundament
 
@@ -426,6 +436,7 @@ Wenn der Alarm ausgelöst wird, startet der Host Schwarzes ICE, Aufspüren,
 Säure, Leuchtspur, und Absturz. Wenn eins davon abstürzt, startet der Host es
 neu, bevor er die Liste weiter abarbeitet. 
 
-#### Fundament
+### Die Abteilung
 
-
+- Die Agora in Athen: Geburtsstunde der Demokratie
+-  
