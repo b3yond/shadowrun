@@ -440,3 +440,46 @@ neu, bevor er die Liste weiter abarbeitet.
 
 - Die Agora in Athen: Geburtsstunde der Demokratie
 -  
+
+
+
+#### Fundament
+
+- Aktzeichenkurs
+- Auf der Bühne sitzt ein nackter Zwerg, guckt missmutig, und strickt mit Wolle
+  in Regenbogenfarben
+- etwa 7 Kunststudenten mit Baggy-Pants und Goldketten, und teilweise mehreren
+  Baseball-Caps, schief aufgesetzt, sie reden nur in Versform, sie tragen
+  Bandshirts von Metal-Bands
+- Die Kunststudenten malen alle irgendetwas anderes, aber nicht den Zwerg
+- Ein großer Troll mit einem Dreizack und einem übergroßen Bleistift läuft von
+  Student zu Student und kritzelt in ihre Bilder rein
+- Der Raum hat keine Türen, die Fenster sind in der Decke
+- Es stehen ein paar leere Staffeleien mit Pinseln und Stiften herum
+
+Abweichungen:
+- Nicht in Versform reden
+- In die Bilder der Studenten reinkritzeln, ohne einen Schal zu tragen
+- Mit dem Zwerg reden (nonverbal ist okay)
+- Den Raum verlassen (schwer)
+- Den Zwerg malen (schwer)
+
+##### Bewohner
+
+Kunstlehrer
+
+Zwerg
+
+Studenten
+
+##### Knoten
+
+- Archiv: System of a Down
+- Sicherheitszentrale: Slayer
+- Slave-Steuerung: Tool
+- Hauptkontrolle: Dio
+- Null-Knoten: Disturbed
+- Bühnensteuerung: Dream Theater
+- Portal: Led Zeppelin
+
+
